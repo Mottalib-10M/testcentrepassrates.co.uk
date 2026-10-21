@@ -1,0 +1,302 @@
+{
+  "_about": "Every fee, rule and survey figure of the site lives here (RECETTE §4), each read on the official page of `sources` on `retrieved_at`. Centre figures are in centres.json, national.json and theory.json, generated from the DVSA tables by scripts/update-data.py.",
+  "year": 2026,
+  "retrieved_at": "2026-10-21",
+  "fees": {
+    "theory": 23,
+    "practicalWeekday": 62,
+    "practicalEvening": 75,
+    "extendedWeekday": 124,
+    "extendedEvening": 150,
+    "provisionalOnline": 34,
+    "provisionalPost": 43,
+    "updated": "2025-01-27"
+  },
+  "rules": {
+    "changesAllowed": 2,
+    "changesOld": 6,
+    "changesFrom": "2026-03-31",
+    "onlyLearnerFrom": "2026-05-12",
+    "noFinderAppsFrom": "2026-05-12",
+    "nearestThreeFrom": "2026-06-09",
+    "refundWorkingDays": 10,
+    "rulesUpdated": "2026-06-19",
+    "releaseDay": "Monday",
+    "releaseTime": "6am",
+    "releaseWeeksAhead": 24,
+    "bookableUntil": "2027-04-04",
+    "releaseUpdated": "2026-10-19",
+    "swapUpdated": "2026-10-01",
+    "maxDrivingFaults": 15,
+    "testMinutes": 35,
+    "theoryValidYears": 2,
+    "theoryMcqPass": 43,
+    "theoryMcqOf": 50,
+    "hazardPass": 44,
+    "hazardOf": 75,
+    "theoryRetakeWorkingDays": 3,
+    "independentMinutes": "20 to 35",
+    "retestWorkingDays": 10,
+    "eyesightMetres": 20
+  },
+  "adiSurvey": {
+    "published": "2026-02-25",
+    "fieldwork": "October 2025",
+    "responses": 3342,
+    "bands": [
+      {
+        "label": "£25 or less",
+        "pc": 0.4
+      },
+      {
+        "label": "£26 to £30",
+        "pc": 2.0
+      },
+      {
+        "label": "£31 to £35",
+        "pc": 18.2
+      },
+      {
+        "label": "£36 to £40",
+        "pc": 50.3
+      },
+      {
+        "label": "£41 to £45",
+        "pc": 22.5
+      },
+      {
+        "label": "£46 to £50",
+        "pc": 5.0
+      },
+      {
+        "label": "£51 or more",
+        "pc": 1.6
+      }
+    ],
+    "regions": {
+      "South West": [
+        7.6,
+        37.8,
+        54.6
+      ],
+      "South East": [
+        13.4,
+        47.3,
+        39.3
+      ],
+      "Scotland": [
+        10.4,
+        53.7,
+        36.0
+      ],
+      "London": [
+        34.2,
+        40.5,
+        25.2
+      ],
+      "East of England": [
+        17.2,
+        58.4,
+        24.3
+      ],
+      "North West": [
+        27.1,
+        51.4,
+        21.5
+      ],
+      "East Midlands": [
+        20.1,
+        58.8,
+        21.1
+      ],
+      "Wales": [
+        27.8,
+        52.8,
+        19.4
+      ],
+      "Yorkshire and The Humber": [
+        30.4,
+        51.9,
+        17.8
+      ],
+      "West Midlands": [
+        37.0,
+        48.9,
+        14.1
+      ],
+      "North East": [
+        27.7,
+        64.2,
+        8.1
+      ]
+    },
+    "regionColumns": [
+      "£35 or less",
+      "£36 to £40",
+      "£41 or more"
+    ],
+    "history": {
+      "October 2022": [
+        74.3,
+        21.4,
+        4.3
+      ],
+      "June 2023": [
+        61.5,
+        31.1,
+        7.4
+      ],
+      "September 2024": [
+        31.5,
+        47.7,
+        20.8
+      ],
+      "October 2025": [
+        20.6,
+        50.3,
+        29.1
+      ]
+    },
+    "marginPts": 2.2,
+    "availability": {
+      "pc": 45.4,
+      "changePts": 8.8,
+      "previous": "September 2024"
+    },
+    "workAtLeast25h": 56.6
+  },
+  "sources": {
+    "dvsa_data": {
+      "url": "https://www.gov.uk/government/statistical-data-sets/driving-test-and-theory-test-data-cars",
+      "label": {
+        "en": "DVSA, Driving test and theory test data: cars (tables DRT122A to DRT122F, DRT112A, DRT121A to DRT121G)"
+      }
+    },
+    "dvsa_pass_centre": {
+      "url": "https://www.gov.uk/government/statistical-data-sets/driving-test-and-theory-test-data-cars",
+      "label": {
+        "en": "DVSA, DRT122A: car practical test pass rates by test centre, sex and year"
+      }
+    },
+    "dvsa_waits": {
+      "url": "https://www.gov.uk/government/statistical-data-sets/driving-test-and-theory-test-data-cars",
+      "label": {
+        "en": "DVSA, DRT122F: car practical test waiting times and availability by test centre and month"
+      }
+    },
+    "dvsa_theory_centre": {
+      "url": "https://www.gov.uk/government/statistical-data-sets/driving-test-and-theory-test-data-cars",
+      "label": {
+        "en": "DVSA, DRT112A: car theory test pass rates by test centre"
+      }
+    },
+    "gov_find_centre": {
+      "url": "https://www.gov.uk/find-driving-test-centre",
+      "label": {
+        "en": "GOV.UK, Find a driving test centre (addresses and test types)"
+      }
+    },
+    "gov_nearest": {
+      "url": "https://www.gov.uk/government/publications/check-which-driving-test-centres-you-can-move-your-test-to",
+      "label": {
+        "en": "DVSA, Check which driving test centres you can move your test to"
+      }
+    },
+    "gov_rules_2026": {
+      "url": "https://www.gov.uk/guidance/changes-to-driving-test-booking-rules-in-2026",
+      "label": {
+        "en": "DVSA, Changes to driving test booking rules in 2026 (updated 19 June 2026)"
+      }
+    },
+    "gov_release": {
+      "url": "https://www.gov.uk/guidance/driving-test-appointments-release-dates-and-finding-earlier-tests",
+      "label": {
+        "en": "DVSA, Driving test appointments: release dates and finding earlier tests (updated 19 October 2026)"
+      }
+    },
+    "gov_swap": {
+      "url": "https://www.gov.uk/guidance/swapping-your-driving-test-with-another-learner-driver",
+      "label": {
+        "en": "DVSA, Swapping your driving test with another learner driver (1 October 2026)"
+      }
+    },
+    "gov_cost": {
+      "url": "https://www.gov.uk/driving-test-cost",
+      "label": {
+        "en": "GOV.UK, Driving test costs"
+      }
+    },
+    "gov_provisional": {
+      "url": "https://www.gov.uk/apply-first-provisional-driving-licence",
+      "label": {
+        "en": "GOV.UK, Apply for your first provisional driving licence"
+      }
+    },
+    "gov_book": {
+      "url": "https://www.gov.uk/book-driving-test",
+      "label": {
+        "en": "GOV.UK, Book your driving test"
+      }
+    },
+    "gov_change": {
+      "url": "https://www.gov.uk/change-driving-test",
+      "label": {
+        "en": "GOV.UK, Change your driving test appointment"
+      }
+    },
+    "gov_adi_survey": {
+      "url": "https://www.gov.uk/government/publications/working-as-a-driving-instructor-survey-2025-results/working-as-a-driving-instructor-survey-2025-results",
+      "label": {
+        "en": "DVSA, Working as a driving instructor: survey 2025 results (25 February 2026)"
+      }
+    },
+    "os_codepoint": {
+      "url": "https://www.ordnancesurvey.co.uk/products/code-point-open",
+      "label": {
+        "en": "Ordnance Survey, Code-Point Open (postcode positions, Open Government Licence)"
+      }
+    },
+    "ogl": {
+      "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "label": {
+        "en": "The National Archives, Open Government Licence v3.0"
+      }
+    },
+    "ni_dva": {
+      "url": "https://www.nidirect.gov.uk/articles/test-centre-locations",
+      "label": {
+        "en": "nidirect, DVA driving test centre locations (Northern Ireland)"
+      }
+    },
+    "gov_faults": {
+      "url": "https://www.gov.uk/driving-test/driving-test-faults-result",
+      "label": {
+        "en": "GOV.UK, Driving test faults and your result"
+      }
+    },
+    "gov_test_car": {
+      "url": "https://www.gov.uk/driving-test/using-your-own-car",
+      "label": {
+        "en": "GOV.UK, Driving test: cars, using your own car (manual and automatic)"
+      }
+    },
+    "gov_test_weather": {
+      "url": "https://www.gov.uk/driving-test/test-cancelled-bad-weather",
+      "label": {
+        "en": "GOV.UK, Driving test: cars, test cancelled for bad weather"
+      }
+    },
+    "gov_test_what": {
+      "url": "https://www.gov.uk/driving-test/what-happens-during-test",
+      "label": {
+        "en": "GOV.UK, Driving test: cars, what happens during the test"
+      }
+    },
+    "gov_theory_result": {
+      "url": "https://www.gov.uk/theory-test/pass-mark-and-result",
+      "label": {
+        "en": "GOV.UK, Theory test: pass mark and result"
+      }
+    }
+  }
+}

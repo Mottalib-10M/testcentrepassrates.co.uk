@@ -1,0 +1,13 @@
+{
+ "accent": "#B3123A",
+ "symbol": "L",
+ "variants": [
+  {
+   "file": "og-en.png",
+   "title": "Driving test centres:\npass rates and waiting times",
+   "subtitle": "Every DVSA car test centre · 3-year trend · median wait · easiest near you",
+   "badge": "DVSA data to September 2026",
+   "brand": "Test Centre Pass Rates"
+  }
+ ]
+}

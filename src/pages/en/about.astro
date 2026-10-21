@@ -1,0 +1,33 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { LAST_UPDATED, AUTHOR_NAME, CONTACT_EMAIL, AUTHOR_ROLE } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { personSchema, organizationSchema, breadcrumbSchema, profilePageSchema } from '../../lib/seo';
+import { displayDate } from '../../lib/format';
+import { PAGES } from '../../lib/guides';
+import { P } from '../../lib/engine/params';
+import { CENTRES, THEORY_CENTRES, LAST_YEAR, WAIT_MONTH } from '../../lib/engine/centres';
+import { monthLabel, yearLabel } from '../../lib/helpers';
+const lang = 'en';
+const n = PAGES.length + 1;
+const nSrc = Object.keys(P.sources).length;
+---
+<PageLayout title="Driving test centre data: who runs Test Centre Pass Rates" description="Who publishes Test Centre Pass Rates, why it shows the DVSA pass rate and wait of every car driving test centre in Britain, and where each figure comes from." lang={lang} jsonLd={[personSchema(lang), organizationSchema(lang), profilePageSchema({ path: route('about', lang), lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'About', path: route('about', lang) }])]} breadcrumbs={[{ label: 'About' }]}>
+  <header class="mb-6"><p class="kicker">About</p><h1 class="mt-1 text-3xl font-bold text-navy-900 md:text-4xl">Who reads the DVSA tables for Test Centre Pass Rates</h1></header>
+  <div class="prose prose-slate max-w-none">
+    <div class="not-prose mb-6"><p class="text-lg font-semibold text-navy-900">{AUTHOR_NAME}</p><p class="text-navy-700">{AUTHOR_ROLE[lang]}</p></div>
+    <p>Test Centre Pass Rates is published by Radif Partners, a company that builds free tools on public data. This one is for learner drivers in England, Scotland and Wales, and for the parents and instructors who help them, at the moment they choose where to book a car practical test.</p>
+    <h2>Why this site exists</h2>
+    <p>Search for a test centre's name in October 2026 and the first results were an insurer's page built to sell learner cover, driving schools asking for an email and a phone number, a site selling cancellation alerts of a kind DVSA has not allowed since 12 May 2026, and a recent clone whose headline rate was still the previous year's. DVSA's own tables, the source of all of them, are spreadsheets of several thousand rows that few learners open.</p>
+    <p>So this site does better than the first Google result because it sets the {yearLabel(LAST_YEAR)} DVSA pass rate of each of the {CENTRES.length} car test centres beside its change over three years, its first-attempt and automatic rates, its median wait to {monthLabel(WAIT_MONTH)} and the three centres a test booked there may legally be moved to, with no email, phone number or cancellation alert to sell.</p>
+    <h2>Where the numbers come from</h2>
+    <p>A script downloads the DVSA statistical tables for cars (DRT122A to DRT122F for centres, DRT112A for {THEORY_CENTRES.length} theory centres, DRT121A to DRT121G for national figures), published under the Open Government Licence v3.0, and builds one record per centre. Addresses and the official list of nearby centres come from GOV.UK; distances from Ordnance Survey Code-Point Open. Fees and booking rules sit in one parameter file citing {nSrc} official pages, read on {displayDate(P.retrieved_at, 'en-GB')}. The <a href={route('method', lang)}>method page</a> describes each table, each estimate and what is left out.</p>
+    <h2>What we are not</h2>
+    <p>We are not DVSA, DVLA, a driving school or an insurer. We cannot book, move, swap or cancel a test, see your booking or find you an earlier slot. Tests are booked on GOV.UK only. Northern Ireland, where tests are run by the Driver and Vehicle Agency, is not covered.</p>
+    <h2>How the site is paid for</h2>
+    <p>It is free and needs no account or email. We sell no lessons, insurance, cancellation alerts or routes, take no commission and link to no firm that does. If advertising is added one day, it will never sit above a tool, and it cannot use what you type because nothing you type leaves your browser.</p>
+    <h2>Tell us when a figure is wrong</h2>
+    <p>Write to <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a> with the centre and the figure you think is wrong. The <a href={route('editorial', lang)}>editorial policy</a> explains how a correction is made. The site has {n} indexed pages; the full list is in the footer.</p>
+    <p class="text-sm text-navy-600">Tables last read on <time datetime={LAST_UPDATED}>{displayDate(LAST_UPDATED, 'en-GB')}</time>.</p>
+  </div>
+</PageLayout>

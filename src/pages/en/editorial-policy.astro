@@ -1,0 +1,26 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { AUTHOR_NAME, CONTACT_EMAIL, LAST_UPDATED, SITE_NAMES } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+const lang = 'en';
+---
+<PageLayout title={`Editorial policy of ${SITE_NAMES[lang]}: tables, estimates, fixes`} description="Which DVSA and GOV.UK tables Test Centre Pass Rates uses for driving test centres, which sources it refuses, how estimates are labelled, when data is re-read and how errors are fixed." lang={lang} noindex={true} breadcrumbs={[{ label: 'Editorial policy' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Editorial and corrections policy</h1>
+    <p>Learners use these pages to choose where to book a test that costs money and months of waiting. A wrong rate or an out-of-date wait can send them to the wrong centre, so every figure points back to the official table it came from.</p>
+    <h2>Who is responsible</h2><p>{AUTHOR_NAME}, reachable at <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p>
+    <h2>The data we use</h2>
+    <ul>
+      <li>the DVSA statistical data set "Driving test and theory test data: cars": tables DRT122A to DRT122F for each practical test centre, DRT112A for theory centres and DRT121A to DRT121G for national figures, under the Open Government Licence v3.0;</li>
+      <li>GOV.UK pages for addresses, the three centres a test can be moved to, fees and the 2026 booking rules;</li>
+      <li>DVSA's survey of driving instructors for lesson prices, quoted as a range, never as an average it does not publish;</li>
+      <li>Ordnance Survey Code-Point Open for the position of postcodes.</li>
+    </ul>
+    <h2>Sources we refuse</h2><p>Insurers, driving schools, route apps, cancellation finders and other pass-rate sites never provide a figure here, however well they rank. Some still showed the previous year's rate as current in October 2026. A figure we cannot trace to an official table, such as an average number of lesson hours, is not published.</p>
+    <h2>Estimates</h2><p>Three tools estimate rather than report: the chance of passing by age and sex at one centre, the chance of passing within a number of attempts, and the expected cost of a licence. Each says so next to its result and the <a href={route('method', lang)}>method page</a> gives the formula.</p>
+    <h2>Review cycle</h2><p>DVSA updates waiting times every month and pass rates by centre once a year, in the summer after the year ending in March. A script re-reads the tables every month and the pages rebuild with the new date.</p>
+    <h2>Corrections</h2>
+    <ol><li>We open the official table again.</li><li>We correct the script or the parameter file and add a test for the case.</li><li>The pages rebuild and show the new date.</li></ol>
+    <h2>Independence</h2><p>No driving school, insurer, app or test centre pays for or reviews what is published here, and the site carries no affiliate link. Version: {LAST_UPDATED}.</p>
+  </div>
+</PageLayout>

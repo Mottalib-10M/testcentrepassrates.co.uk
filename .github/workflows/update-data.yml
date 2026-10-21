@@ -1,0 +1,72 @@
+name: Monthly DVSA data update and deploy
+
+# DVSA publishes the monthly waiting times (DRT122F, DRT121G) around the middle of each month, the pass rates by
+# centre (DRT122A to E) once a year in June, the theory and national tables every quarter. On the 16th of each month
+# the script re-reads the GOV.UK statistical data set, regenerates src/data/*.json, the tests check the new figures,
+# the site is rebuilt and published on GitHub Pages, and the updated data is committed.
+on:
+  schedule:
+    - cron: "30 6 16 * *"
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: npm ci --legacy-peer-deps
+
+      - name: Fetch the DVSA tables (scheduled and manual runs)
+        if: github.event_name != 'push'
+        run: python3 scripts/update-data.py
+
+      - name: Tests
+        run: npx vitest run
+
+      - name: Build
+        run: npm run build
+
+      - name: Commit updated data
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/centres.json src/data/centres-lite.json src/data/theory.json src/data/national.json src/data/meta.json src/data/site-config.ts
+          git diff --cached --quiet || (git commit -m "DVSA data of $(date -u +%F)" && git push)
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

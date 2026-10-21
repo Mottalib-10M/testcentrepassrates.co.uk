@@ -1,0 +1,103 @@
+---
+/**
+ * Home: the centre finder on the first screen, then a reference page on what the DVSA tables say about
+ * pass rates and waiting times across Great Britain (RECETTE §5, §21). Every figure is read from the data.
+ */
+import PageLayout from '../layouts/PageLayout.astro';
+import Tool from './Tool.astro';
+import Clamp from './Clamp.astro';
+import { route } from '../i18n/routes';
+import { PAGES } from '../lib/guides';
+import { groupLabel, GROUPS_ORDER } from '../i18n/nav';
+import { helpers } from '../lib/helpers';
+import { LAST_UPDATED, AUTHOR_NAME } from '../data/site-config';
+import { displayDate } from '../lib/format';
+import { faqSchema, webApplicationSchema, websiteSchema, organizationSchema } from '../lib/seo';
+const lang = 'en';
+const h = helpers(true);
+const { E, F, P, gb, pc, pp, wk, num, cl } = h;
+const big = E.CENTRES.filter((c) => c.t >= 1000 && E.rate(c) != null);
+const top = E.sorted(big, 'rate').slice(0, 10);
+const bottom = E.sorted(big, 'rate').slice(-10).reverse();
+const YL = h.yearLabel(h.lastYear);
+const ML = h.month(h.lastMonth);
+const g = gb.wait!;
+const areas = ['England', 'Scotland', 'Wales', ...E.REGIONS.filter((r) => r !== 'Wales' && r !== 'Scotland')];
+const areaRows = areas.map((a) => { const w = F.areaWait(a, h.lastMonth)!; return [a, w[0], pc(w[1] / w[0]), wk(w[3]), pp(w[4])]; });
+const busiest = E.sorted(E.CENTRES, 'tests')[0];
+const longest = E.sorted(E.CENTRES.filter((c) => c.t >= 1000), 'wait')[0];
+const shortest = E.sorted(E.CENTRES.filter((c) => c.t >= 1000), 'wait', true)[0];
+const prev = E.gbRate(E.YEARS[1]);
+const meta = F.META_DATA;
+const ages17 = E.ageRate(17), ages30 = E.ageRate(30);
+const resume = `The car practical driving test pass rate in Great Britain was ${pc(gb.rate)} in ${YL}: ${num(E.NATIONAL.practical[h.lastYear].t[1])} passes out of ${num(E.NATIONAL.practical[h.lastYear].t[0])} tests, according to the DVSA tables published on ${h.date(meta.passRatesUpdated)}. Behind that average, the ${E.CENTRES.length} car test centres of England, Scotland and Wales range from ${pp(E.rate(bottom[0]))} at ${bottom[0].n} to ${pp(E.rate(top[0]))} at ${top[0].n} among those with at least 1,000 tests a year. The median wait between booking and test was ${wk(g[3])} in ${ML}, with ${pp(g[4])} of tests booked within seven weeks. First attempts passed ${pc(gb.first)} of the time, automatic cars ${pc(gb.auto)}. Type a postcode above to see every centre around it, its three-year trend and its current wait, and the centre with the highest pass rate within the distance you choose.`;
+const faqs = [
+  { q: 'Which driving test centre has the highest pass rate?', a: `Among centres with at least 1,000 car tests in ${YL}, ${top[0].n} had the highest rate, ${pp(E.rate(top[0]))}, followed by ${top[1].n} at ${pp(E.rate(top[1]))}. Small rural and island centres often post higher rates on a few hundred tests, which swing a lot from one year to the next. The finder shows every centre with its number of tests, so you can judge how solid a rate is.` },
+  { q: 'How long is the wait for a driving test right now?', a: `In ${ML}, half of car tests in Great Britain were taken more than ${wk(g[3])} after booking, and ${pp(g[4])} within seven weeks, according to DVSA table DRT121G. Waits vary a lot by centre: ${shortest.n} had a median of ${wk(shortest.w)} and ${longest.n} ${wk(longest.w)}. Each centre page shows its own wait month by month.` },
+  { q: 'Does choosing an easier test centre really help?', a: `A little, and less than the gap between centres suggests. Rates reflect who takes tests there as much as the routes: age, experience, how many are retakes. You must also be ready for local roads, and since 9 June 2026 a booked test can only move to the three centres nearest the one you booked. Booking where you learned usually matters more than a few points of pass rate.` },
+  { q: 'Is Northern Ireland included?', a: 'No. Tests in Northern Ireland are run by the Driver and Vehicle Agency (DVA), not by DVSA, and the DVSA tables used here cover only England, Scotland and Wales. The DVA publishes its own centre list on nidirect. The rules on changing and moving a test described on this site also apply only to Great Britain.' },
+  { q: 'How often are the pass rates and waits updated?', a: `DVSA publishes the monthly waiting table around the middle of each month and the yearly pass rates by centre once a year, for the year from April to March. The site re-reads every table on the 16th of the month and rebuilds when one has changed. The latest month here is ${ML}; the pass rates are for ${YL}.` },
+  { q: 'Is this the official DVSA site?', a: 'No. Test Centre Pass Rates is an independent site published by Radif Partners. It reads the statistical tables DVSA publishes under the Open Government Licence and turns them into one record per centre. It cannot book, move or cancel a test, sells no cancellation alerts and asks for no email or phone number. Tests are booked only on GOV.UK.' },
+];
+const jsonLd = [webApplicationSchema({ name: 'Driving test centre finder', description: 'Pass rate, three-year trend and waiting time of every car driving test centre in Great Britain.', path: route('home', lang), lang }), websiteSchema(lang), organizationSchema(lang), faqSchema(faqs, lang)];
+const groups = GROUPS_ORDER.filter((x) => x !== 'centres' && x !== 'regions').map((x) => ({ g: x, pages: PAGES.filter((p) => p.group === x) }));
+const regions = PAGES.filter((p) => p.group === 'regions'), centres = PAGES.filter((p) => p.group === 'centres');
+---
+<PageLayout title="Driving Test Centre Pass Rates and Waiting Times 2026" description="Driving test centre pass rates for 2025/26 and waiting times to September 2026 for all 315 car centres in Britain, with the easiest centre near your postcode." lang={lang} jsonLd={jsonLd} faqs={faqs}>
+  <header class="mb-3">
+    <h1 class="text-[1.75rem] font-bold text-navy-900 max-sm:leading-tight sm:text-3xl md:text-4xl">Driving test centre pass rates and waiting times</h1>
+    <p class="mt-2 text-base text-navy-700 sm:text-lg">Type a postcode or a centre: every car test centre around it, with its {YL} pass rate, its trend over three years and the median wait in {ML}.</p>
+  </header>
+  <div data-outil class="mb-4"><Tool tool={{ kind: 'finder', props: { q: 'B1', radius: 15, sort: 'near' } }} primary={true} /></div>
+  <Clamp text={resume} id="clamp-home" class="mb-3" />
+  <p class="mb-8 text-sm text-navy-600">DVSA tables of {displayDate(meta.passRatesUpdated, 'en-GB')} (pass rates) and {meta.waitsUpdated} (waits), read on <time datetime={LAST_UPDATED}>{displayDate(LAST_UPDATED, 'en-GB')}</time> · {AUTHOR_NAME} · <a href={route('method', lang)} class="underline hover:text-navy-900">How the figures are built</a> · <a href={route('about', lang)} class="underline hover:text-navy-900">About this site</a></p>
+
+  <div class="prose prose-slate max-w-none">
+    <p>This site does better than the first Google result for a test centre's name, an insurer's page built to sell learner cover, because it sets the {YL} DVSA pass rate of each of the {E.CENTRES.length} car test centres beside its change over three years, its first-attempt and automatic rates, its median wait to {ML} and the three centres a test booked there may legally be moved to, with no email, phone number or cancellation alert to sell.</p>
+
+    <h2>What a centre's pass rate tells you, and what it does not</h2>
+    <p>DVSA counts every car practical test taken at a centre between April and March and the share that ended in a pass. That is the figure in the finder. It moved from {pc(prev)} nationally in {h.yearLabel(E.YEARS[1])} to {pc(gb.rate)} in {YL}. Three things push a centre above or below that line, and only one of them is the test itself.</p>
+    <ul>
+      <li><strong>Who takes the test there.</strong> Seventeen-year-olds passed {pc(ages17)} of their tests in {YL}, thirty-year-olds {pc(ages30)}. A centre near a sixth-form college does not face the same candidates as one in a city where people learn later and retake more often.</li>
+      <li><strong>How many tests are retakes.</strong> Nationally, first attempts passed {pc(E.attemptRate(1))} of the time and sixth or later attempts {pc(E.attemptRate(6))}. Busy urban centres see more repeat candidates.</li>
+      <li><strong>The roads.</strong> Multi-lane roundabouts, heavy traffic and bus lanes give an examiner more chances to record a serious fault. This is the part a change of centre can alter, and it is smaller than the gap between two centres suggests.</li>
+    </ul>
+    <p>Women and men pass at close rates: {pc(gb.f)} and {pc(gb.m)} in {YL}. The <Fragment set:html={h.a('pass-rate-by-age-and-sex', 'age and sex page')} /> turns the national tables into an estimate for one centre, clearly labelled as such.</p>
+  </div>
+
+  <div class="grid gap-8 lg:grid-cols-2">
+    <div class="min-w-0"><h3 class="mb-2 text-lg font-semibold text-navy-900">Highest pass rates, {YL}</h3><Fragment set:html={h.table(['Centre', 'Tests', 'Pass rate', 'Wait'], top.map((c) => [cl(c.id), c.t, pp(E.rate(c)), wk(c.w)]), 'Centres with at least 1,000 car tests in the year.', ['l', 'r', 'r', 'r'])} /></div>
+    <div class="min-w-0"><h3 class="mb-2 text-lg font-semibold text-navy-900">Lowest pass rates, {YL}</h3><Fragment set:html={h.table(['Centre', 'Tests', 'Pass rate', 'Wait'], bottom.map((c) => [cl(c.id), c.t, pp(E.rate(c)), wk(c.w)]), 'Same threshold of 1,000 tests.', ['l', 'r', 'r', 'r'])} /></div>
+  </div>
+
+  <div class="prose prose-slate max-w-none">
+    <h2>Waiting times by nation and region, {ML}</h2>
+    <p>The wait is counted from the day a test is booked to the day it is taken, for the tests taken that month. Half waited longer than the median shown here. The column on the right gives the share of tests booked within seven weeks, which DVSA publishes for every centre each month. {busiest.n} ran the most tests in the year, {num(busiest.t)}; its median wait in {ML} was {wk(busiest.w)}.</p>
+  </div>
+  <Fragment set:html={h.table(['Area', 'Tests taken', 'Pass rate', 'Median wait', 'Booked within 7 weeks'], areaRows, `Car practical tests taken in ${ML}, by nation and English region. DVSA table DRT121G.`, ['l', 'r', 'r', 'r', 'r'])} />
+
+  <div class="prose prose-slate max-w-none">
+    <h2>The 2026 booking rules change what "near me" means</h2>
+    <p>DVSA changed how car tests are booked in three steps this year, set out in its <Fragment set:html={h.src('gov_rules_2026', 'guidance on the 2026 booking rules')} />. Since {h.date(P.rules.changesFrom)} a booking can be changed {P.rules.changesAllowed} times, against {P.rules.changesOld} before. Since {h.date(P.rules.onlyLearnerFrom)} only the learner may book or manage the test, not an instructor, and cancellation-finder websites and apps that scan the booking service are no longer allowed. Since {h.date(P.rules.nearestThreeFrom)} a test can only move to one of the three centres nearest the one booked, or back to the first. Picking a centre is therefore a decision made once, at booking: the <Fragment set:html={h.a('move-driving-test-centre', 'page on moving a test')} /> lists the three centres of each, and the finder shows them with their rates and waits.</p>
+    <p>New appointments appear at {P.rules.releaseTime} every {P.rules.releaseDay}, {P.rules.releaseWeeksAhead} weeks ahead; earlier slots come back at any time when someone cancels or moves a test (<Fragment set:html={h.src('gov_release', 'DVSA release dates')} />). There is no waiting list at most centres. A full refund needs at least {P.rules.refundWorkingDays} full working days' notice. The fee is £{P.fees.practicalWeekday} on a weekday and £{P.fees.practicalEvening} in the evening, at weekends and on bank holidays, plus £{P.fees.theory} for the theory test (<Fragment set:html={h.src('gov_cost', 'GOV.UK fees')} />).</p>
+
+    <h2>Where the figures come from</h2>
+    <p>Pass rates by centre, sex, age, attempt and gearbox come from DVSA tables DRT122A to DRT122E, waiting times from DRT122F, theory test rates from DRT112A, all in the <Fragment set:html={h.src('dvsa_data', 'driving test and theory test data for cars')} /> published under the <Fragment set:html={h.src('ogl', 'Open Government Licence')} />. Addresses and the three centres a test can move to are those listed on GOV.UK; distances are straight lines from the <Fragment set:html={h.src('os_codepoint', 'Code-Point Open')} /> position of each postcode. A script re-reads the tables every month. Centres closed or merged before {h.yearLabel(h.lastYear)} are left out, and so is Northern Ireland, whose tests are run by the DVA. The <a href={route('method', lang)}>method page</a> lists every table and every limit.</p>
+  </div>
+
+  <section class="mt-12" aria-labelledby="guides-title">
+    <h2 id="guides-title" class="text-2xl font-bold text-navy-900">Guides</h2>
+    <div class="mt-4 grid gap-x-10 gap-y-6 md:grid-cols-2">
+      {groups.map(({ g, pages }) => (
+        <div>
+          <h3 class="border-b border-navy-200 pb-1 text-sm font-semibold uppercase tracking-wide text-navy-600">{groupLabel(g)}</h3>
+          <ul class="mt-2 space-y-2">{pages.map((p) => <li><a href={route(p.id, lang)} class="font-medium text-accent-700 underline-offset-2 hover:underline">{p.nav}</a><span class="block text-sm text-navy-600">{p.card}</span></li>)}</ul>
+        </div>
+      ))}
+    </div>
+    <h3 class="mt-8 border-b border-navy-200 pb-1 text-sm font-semibold uppercase tracking-wide text-navy-600">Every centre by region</h3>
+    <p class="mt-2 text-sm leading-7">{regions.map((p, i) => <Fragment><a href={route(p.id, lang)} class="text-accent-700 hover:underline">{p.nav}</a>{i < regions.length - 1 ? ' · ' : ''}</Fragment>)}</p>
+    <h3 class="mt-6 border-b border-navy-200 pb-1 text-sm font-semibold uppercase tracking-wide text-navy-600">Centres with their own page</h3>
+    <p class="mt-2 text-sm leading-7">{centres.map((p, i) => <Fragment><a href={route(p.id, lang)} class="text-accent-700 hover:underline">{p.nav}</a>{i < centres.length - 1 ? ' · ' : ''}</Fragment>)}</p>
+  </section>
+</PageLayout>

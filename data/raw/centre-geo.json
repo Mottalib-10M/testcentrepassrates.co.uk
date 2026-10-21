@@ -1,0 +1,4876 @@
+{
+ "Inverurie": {
+  "name": "Inverurie",
+  "street": "Garioch Indoor Bowling Centre, Harlaw Industrial Estate",
+  "locality": "Inverurie",
+  "postcode": "AB51 4FR",
+  "lat": 57.29384361428571,
+  "lon": -2.3877283714285715,
+  "types": "car",
+  "notes": [],
+  "e": 376.71,
+  "n": 822.64
+ },
+ "Aberdeen North": {
+  "name": "Aberdeen North",
+  "street": "Unit A4 Davidson House, Campus 1 Balgownie Road, Bridge of Don",
+  "locality": "Aberdeen",
+  "postcode": "AB22 8GT",
+  "lat": 57.18104654285714,
+  "lon": -2.1181273714285718,
+  "types": "car, lorry and bus, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair. Car, ADI and SC tests will be held at the above address. Please note LGV tests will remain at the original site until further notice: Aberdeen North, Driving Test Centre LGV, Cloverhill Road, Bridge of Don, AB23 8FE."
+  ],
+  "e": 392.9,
+  "n": 810.03
+ },
+ "Aberdeen South (Cove)": {
+  "name": "Aberdeen South (Cove)",
+  "street": "Moss Road, Gateway Business Park, Nigg",
+  "locality": "Aberdeen",
+  "postcode": "AB12 3GQ",
+  "lat": 57.08879693181818,
+  "lon": -2.106763309090909,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 393.58,
+  "n": 799.77
+ },
+ "Huntly": {
+  "name": "Huntly",
+  "street": "Huntly Fire Station, Depot Road",
+  "locality": "Huntly",
+  "postcode": "AB54 8JX",
+  "lat": 57.44528976666667,
+  "lon": -2.7965568333333333,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability.",
+   "Huntly remote centre is moving to a temporary site from 8th August 2025, the address is – Linden community Centre, Castle Street, Huntly, AB54 4SH. They will move back to the Community Fire Station on 1st October 2026. Tests will be available at Huntly Fire Station from 2nd October 2026"
+  ],
+  "e": 352.4,
+  "n": 839.68
+ },
+ "Peterhead": {
+  "name": "Peterhead",
+  "street": "Suite 21, Burnside Business Centre, Burnside Road",
+  "locality": "Peterhead",
+  "postcode": "AB42 3AW",
+  "lat": 57.487093580645166,
+  "lon": -1.8017339806451613,
+  "types": "",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 411.99,
+  "n": 844.11
+ },
+ "Banff": {
+  "name": "Banff",
+  "street": "Driving Test Centre Banff, Ground Floor Banff Castle",
+  "locality": "Banff",
+  "postcode": "AB45 1DL",
+  "lat": 57.6660537,
+  "lon": -2.523016625,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 368.89,
+  "n": 864.11
+ },
+ "Ballater": {
+  "name": "Ballater",
+  "street": "The Lecture Room, Ballater Fire Station, Anderson Road",
+  "locality": "Ballater",
+  "postcode": "AB35 5QW",
+  "lat": 57.04524625,
+  "lon": -3.04107585,
+  "types": "car",
+  "notes": [],
+  "e": 336.92,
+  "n": 795.42
+ },
+ "Fraserburgh": {
+  "name": "Fraserburgh",
+  "street": "Office No.7, Business Park South, Harbour Road",
+  "locality": "Fraserburgh",
+  "postcode": "AB43 9TN",
+  "lat": 57.69055826,
+  "lon": -2.003241822857143,
+  "types": "car",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 399.91,
+  "n": 866.76
+ },
+ "Buckie": {
+  "name": "Buckie",
+  "street": "The Fire Station, East Cathcart Street",
+  "locality": "Buckie",
+  "postcode": "AB56 1QJ",
+  "lat": 57.67301132,
+  "lon": -2.9724861533333335,
+  "types": "car",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 342.09,
+  "n": 865.23
+ },
+ "Montrose": {
+  "name": "Montrose",
+  "street": "Driving Test Centre Montrose Montrose Fire Station 10 Garrison Road",
+  "locality": "Montrose",
+  "postcode": "DD10 8EE",
+  "lat": 56.70617006333334,
+  "lon": -2.4610691466666665,
+  "types": "car",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 371.87,
+  "n": 757.26
+ },
+ "St Albans": {
+  "name": "St Albans",
+  "street": "Beauver House, 6 Bricket Road",
+  "locality": "St Albans",
+  "postcode": "AL1 3JX",
+  "lat": 51.75305324615385,
+  "lon": -0.3346297307692308,
+  "types": "car, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 515.05,
+  "n": 207.36
+ },
+ "Watford": {
+  "name": "Watford",
+  "street": "CP House, Otterspool Way",
+  "locality": "Watford",
+  "postcode": "WD25 8HU",
+  "lat": 51.6664099,
+  "lon": -0.3651869,
+  "types": "car, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 513.16,
+  "n": 197.67
+ },
+ "Luton": {
+  "name": "Luton",
+  "street": "6 - 10 Adelaide Street",
+  "locality": "Luton",
+  "postcode": "LU1 5BT",
+  "lat": 51.877722325,
+  "lon": -0.420165,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 508.85,
+  "n": 221.09
+ },
+ "Borehamwood (London)": {
+  "name": "Borehamwood (London)",
+  "street": "Unit 1 Stirling Court,, Stirling Way",
+  "locality": "Borehamwood",
+  "postcode": "WD6 2BT",
+  "lat": 51.645721364,
+  "lon": -0.25445481000000003,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "e": 520.89,
+  "n": 195.63
+ },
+ "Barnet (London)": {
+  "name": "Barnet (London)",
+  "street": "Raydean House, 15 - 17 Western Parade",
+  "locality": "Barnet",
+  "postcode": "EN5 1AD",
+  "lat": 51.645708165306125,
+  "lon": -0.18659015714285715,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 525.55,
+  "n": 195.68
+ },
+ "Stevenage": {
+  "name": "Stevenage",
+  "street": "3 Drapers Way",
+  "locality": "Stevenage",
+  "postcode": "SG1 3DT",
+  "lat": 51.91086810666666,
+  "lon": -0.20855554666666667,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 523.33,
+  "n": 225.12
+ },
+ "Mill Hill (London)": {
+  "name": "Mill Hill (London)",
+  "street": "Unit 9, Grannard Business Centre, Bunns Lane",
+  "locality": "Mill Hill",
+  "postcode": "NW7 2DQ",
+  "lat": 51.610330248148145,
+  "lon": -0.24701239629629632,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 521.48,
+  "n": 191.62
+ },
+ "Hendon (London)": {
+  "name": "Hendon (London)",
+  "street": "3 Aviation Drive, Beaufort Park",
+  "locality": "Hendon",
+  "postcode": "NW9 5TZ",
+  "lat": 51.595843925,
+  "lon": -0.24001415,
+  "types": "car",
+  "notes": [],
+  "e": 521.99,
+  "n": 190.04
+ },
+ "Pinner (London)": {
+  "name": "Pinner (London)",
+  "street": "221 Tolcarne Drive",
+  "locality": "Pinner",
+  "postcode": "HA5 2DZ",
+  "lat": 51.596826,
+  "lon": -0.3997122,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 510.94,
+  "n": 189.88
+ },
+ "Enfield (Innova Business Park)": {
+  "name": "Enfield (Innova Business Park)",
+  "street": "Solar Way, Innova Park Business Centre",
+  "locality": "Enfield",
+  "postcode": "EN3 7XY",
+  "lat": 51.67653127222222,
+  "lon": -0.021046122222222224,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 536.9,
+  "n": 199.42
+ },
+ "Birmingham (Cocks Moors Woods Leisure Centre)": {
+  "name": "Birmingham (Cocks Moors Woods Leisure Centre)",
+  "street": "Cocks Moors Woods Leisure Centre, Alcester Road South",
+  "locality": "Birmingham",
+  "postcode": "B14 6ER",
+  "lat": 52.417005870000004,
+  "lon": -1.8890377099999998,
+  "types": "car",
+  "notes": [
+   "Opening Date 02/03/2026",
+   "Opening Date 02/03/2026"
+  ],
+  "e": 407.61,
+  "n": 279.92
+ },
+ "Birmingham (South Yardley)": {
+  "name": "Birmingham (South Yardley)",
+  "street": "Clay Lane",
+  "locality": "South Yardley",
+  "postcode": "B26 1EA",
+  "lat": 52.45420123157894,
+  "lon": -1.8099136578947368,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 413.0,
+  "n": 284.02
+ },
+ "Birmingham (Kings Heath)": {
+  "name": "Birmingham (Kings Heath)",
+  "street": "955 Alcester Road South",
+  "locality": "Birmingham",
+  "postcode": "B14 5JA",
+  "lat": 52.406076557812504,
+  "lon": -1.88691589375,
+  "types": "car, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 407.78,
+  "n": 278.67
+ },
+ "Birmingham (Shirley)": {
+  "name": "Birmingham (Shirley)",
+  "street": "401 Stratford Road, Shirley",
+  "locality": "Solihull",
+  "postcode": "B90 4AA",
+  "lat": 52.40437199047619,
+  "lon": -1.822023357142857,
+  "types": "car, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 412.2,
+  "n": 278.49
+ },
+ "Birmingham (Garretts Green)": {
+  "name": "Birmingham (Garretts Green)",
+  "street": "Granby Avenue, Garretts Green",
+  "locality": "Birmingham",
+  "postcode": "B33 0SD",
+  "lat": 52.47248243333333,
+  "lon": -1.7713209666666667,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), lorry and bus, ADI part 3",
+  "notes": [],
+  "e": 415.63,
+  "n": 286.11
+ },
+ "Birmingham (Kingstanding)": {
+  "name": "Birmingham (Kingstanding)",
+  "street": "205 Birdbrook Road, Kingstanding",
+  "locality": "Birmingham",
+  "postcode": "B44 9UL",
+  "lat": 52.543892390909086,
+  "lon": -1.890487609090909,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 407.52,
+  "n": 294.01
+ },
+ "Birmingham (Sutton Coldfield)": {
+  "name": "Birmingham (Sutton Coldfield)",
+  "street": "110 - 116 Boldmere Road",
+  "locality": "Sutton Coldfield",
+  "postcode": "B73 5UB",
+  "lat": 52.54753164814815,
+  "lon": -1.8412383851851852,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 410.86,
+  "n": 294.42
+ },
+ "Wednesbury": {
+  "name": "Wednesbury",
+  "street": "Knowles Street",
+  "locality": "Wednesbury",
+  "postcode": "WS10 9HN",
+  "lat": 52.5548944125,
+  "lon": -2.0126686937500002,
+  "types": "car, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 399.25,
+  "n": 295.22
+ },
+ "Redditch": {
+  "name": "Redditch",
+  "street": "Elm Road",
+  "locality": "Redditch",
+  "postcode": "B97 6HJ",
+  "lat": 52.3085519625,
+  "lon": -1.946934525,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair. Please do not arrive more than 10 minutes before your test time."
+  ],
+  "e": 403.71,
+  "n": 267.83
+ },
+ "Wolverhampton": {
+  "name": "Wolverhampton",
+  "street": "Spring Road, Spring Road Industrial Estate Ettingshall",
+  "locality": "Wolverhampton",
+  "postcode": "WV4 6JX",
+  "lat": 52.56349877540983,
+  "lon": -2.1022962327868853,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 393.17,
+  "n": 296.21
+ },
+ "Yeovil": {
+  "name": "Yeovil",
+  "street": "Suite 2, Abbey Manor Business Centre, Preston Road",
+  "locality": "Yeovil",
+  "postcode": "BA20 2EN",
+  "lat": 50.943735952941175,
+  "lon": -2.6609092705882356,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "e": 353.66,
+  "n": 116.24
+ },
+ "Trowbridge": {
+  "name": "Trowbridge",
+  "street": "Longfield Community Centre, Weavers Drive",
+  "locality": "Trowbridge",
+  "postcode": "BA14 7DZ",
+  "lat": 51.3138705875,
+  "lon": -2.2023446875,
+  "types": "car",
+  "notes": [],
+  "e": 386.0,
+  "n": 157.22
+ },
+ "Bristol (Kingswood)": {
+  "name": "Bristol (Kingswood)",
+  "street": "The Siston Centre, Station Road, Kingswood",
+  "locality": "Bristol",
+  "postcode": "BS15 4GQ",
+  "lat": 51.4726167875,
+  "lon": -2.4896369625,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), lorry and bus, ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 366.18,
+  "n": 174.86
+ },
+ "Weston-super-Mare": {
+  "name": "Weston-super-Mare",
+  "street": "Plot 11, Sunnyside Road, North Industrial Estate",
+  "locality": "Weston Super Mare",
+  "postcode": "BS23 3PZ",
+  "lat": 51.341655746875,
+  "lon": -2.972427225,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 332.35,
+  "n": 160.67
+ },
+ "Bristol (Avonmouth)": {
+  "name": "Bristol (Avonmouth)",
+  "street": "Unit M6, Cabot Park, Merebank Road",
+  "locality": "Avonmouth,",
+  "postcode": "BS11 8AQ",
+  "lat": 51.51647714090909,
+  "lon": -2.6832034727272727,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "e": 352.82,
+  "n": 179.94
+ },
+ "Taunton": {
+  "name": "Taunton",
+  "street": "Unit L2, Acres Hill Business Park, Off Venture Way",
+  "locality": "Taunton",
+  "postcode": "TA2 8RX",
+  "lat": 51.02796522692308,
+  "lon": -3.0804296346153848,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 324.32,
+  "n": 125.94
+ },
+ "Chippenham": {
+  "name": "Chippenham",
+  "street": "Unit 11, Cavalier Court, Bumpers Farm",
+  "locality": "Chippenham",
+  "postcode": "SN14 6LH",
+  "lat": 51.46501345853658,
+  "lon": -2.1438844402439026,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 390.18,
+  "n": 173.99
+ },
+ "Dorchester": {
+  "name": "Dorchester",
+  "street": "66 Peverell Avenue West, Poundbury",
+  "locality": "Dorchester",
+  "postcode": "DT1 3SU",
+  "lat": 50.71411675223881,
+  "lon": -2.4692374716417906,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "e": 366.97,
+  "n": 90.59
+ },
+ "Salisbury": {
+  "name": "Salisbury",
+  "street": "Rougemont Close",
+  "locality": "Salisbury",
+  "postcode": "SP1 1LY",
+  "lat": 51.071941124999995,
+  "lon": -1.787997853125,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 414.94,
+  "n": 130.31
+ },
+ "Newport (Gwent)": {
+  "name": "Newport (Gwent)",
+  "street": "Stephenson Street, off Corporation Rd, Liswerry",
+  "locality": "Newport",
+  "postcode": "NP19 4XH",
+  "lat": 51.57043906,
+  "lon": -2.9724263399999997,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 3",
+  "notes": [],
+  "e": 332.7,
+  "n": 186.2
+ },
+ "Nelson": {
+  "name": "Nelson",
+  "street": "Ground Floor Units 103,104, 105, Pendle Business Centre, Commercial Road",
+  "locality": "Nelson",
+  "postcode": "BB9 9BT",
+  "lat": 53.834706777777775,
+  "lon": -2.2103549277777774,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 386.26,
+  "n": 437.63
+ },
+ "Blackburn with Darwen": {
+  "name": "Blackburn with Darwen",
+  "street": "Blackburn Interchange, Commercial Road, Off Junction 4 M65, Blackburn",
+  "locality": "Darwen",
+  "postcode": "BB3 0DB",
+  "lat": 53.71369441186441,
+  "lon": -2.4771811152542376,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 368.66,
+  "n": 424.19
+ },
+ "Bury (Manchester)": {
+  "name": "Bury (Manchester)",
+  "street": "Smith Street",
+  "locality": "Bury",
+  "postcode": "BL9 6HH",
+  "lat": 53.5991985018868,
+  "lon": -2.285679937735849,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "e": 381.2,
+  "n": 411.45
+ },
+ "Rochdale (Manchester)": {
+  "name": "Rochdale (Manchester)",
+  "street": "Room G10, Globe House Business, Moss Bridge Road",
+  "locality": "Rochdale",
+  "postcode": "OL16 5EB",
+  "lat": 53.60947118571429,
+  "lon": -2.138780231746032,
+  "types": "car",
+  "notes": [],
+  "e": 390.84,
+  "n": 412.6
+ },
+ "Skipton": {
+  "name": "Skipton",
+  "street": "Foundry House, Carleton Road",
+  "locality": "Skipton",
+  "postcode": "BD23 2BE",
+  "lat": 53.95388504821428,
+  "lon": -2.023086317857143,
+  "types": "car, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 398.59,
+  "n": 450.84
+ },
+ "Steeton": {
+  "name": "Steeton",
+  "street": "Station Road, Steeton",
+  "locality": "Keighley",
+  "postcode": "BD20 6RW",
+  "lat": 53.8994628,
+  "lon": -1.9507503,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), lorry and bus, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 403.33,
+  "n": 444.81
+ },
+ "Chorley": {
+  "name": "Chorley",
+  "street": "Rossall Road",
+  "locality": "Chorley",
+  "postcode": "PR6 0BT",
+  "lat": 53.6575107,
+  "lon": -2.6185437,
+  "types": "car, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 359.22,
+  "n": 418.07
+ },
+ "Bolton (Manchester)": {
+  "name": "Bolton (Manchester)",
+  "street": "Weston Street",
+  "locality": "Bolton",
+  "postcode": "BL3 2AW",
+  "lat": 53.56515367471264,
+  "lon": -2.4229627931034483,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 372.06,
+  "n": 407.71
+ },
+ "Halifax": {
+  "name": "Halifax",
+  "street": "11 Cross Street West, Pellon",
+  "locality": "Halifax",
+  "postcode": "HX2 0HA",
+  "lat": 53.729858433333334,
+  "lon": -1.8914389333333332,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 407.26,
+  "n": 425.95
+ },
+ "Preston": {
+  "name": "Preston",
+  "street": "Chain Caul Road",
+  "locality": "Preston",
+  "postcode": "PR2 2PD",
+  "lat": 53.76042428235294,
+  "lon": -2.750933611764706,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 350.53,
+  "n": 429.6
+ },
+ "Bradford (Heaton)": {
+  "name": "Bradford (Heaton)",
+  "street": "15 Farfield Street, Heaton",
+  "locality": "Bradford",
+  "postcode": "BD9 5AS",
+  "lat": 53.808919325,
+  "lon": -1.7837540625,
+  "types": "car, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 414.32,
+  "n": 434.75
+ },
+ "Bradford (Thornbury)": {
+  "name": "Bradford (Thornbury)",
+  "street": "The Courtyard, Midpoint, Thornbury",
+  "locality": "Bradford",
+  "postcode": "BD3 7AY",
+  "lat": 53.79892243571429,
+  "lon": -1.7038563,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [],
+  "e": 419.54,
+  "n": 433.64
+ },
+ "Horsforth": {
+  "name": "Horsforth",
+  "street": "Room 013 Woodside House, 261 Low Lane, Horsforth",
+  "locality": "Leeds",
+  "postcode": "LS18 5NY",
+  "lat": 53.83996210714285,
+  "lon": -1.62176595,
+  "types": "car, motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 424.98,
+  "n": 438.24
+ },
+ "Heckmondwike": {
+  "name": "Heckmondwike",
+  "street": "Tower Buildings, High Street",
+  "locality": "Heckmondwike",
+  "postcode": "WF16 0AS",
+  "lat": 53.707418866666664,
+  "lon": -1.6713194333333334,
+  "types": "car, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 421.79,
+  "n": 423.49
+ },
+ "Huddersfield": {
+  "name": "Huddersfield",
+  "street": "Board Room 1 and Board Room 2, Chestnut Centre, 2A Chestnut Street",
+  "locality": "Huddersfield",
+  "postcode": "HD2 1HJ",
+  "lat": 53.66837044411765,
+  "lon": -1.7678339235294118,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 415.46,
+  "n": 419.15
+ },
+ "Leeds (The Old Fire Station)": {
+  "name": "Leeds (The Old Fire Station)",
+  "street": "The Old Fire station,, Gipton Approach,",
+  "locality": "Leeds",
+  "postcode": "LS9 6NL",
+  "lat": 53.80264971538462,
+  "lon": -1.4940138423076923,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 433.41,
+  "n": 434.17
+ },
+ "Poole": {
+  "name": "Poole",
+  "street": "4 - 20 Harwell Road, Nuffield Industrial Estate",
+  "locality": "Poole",
+  "postcode": "BH17 0SA",
+  "lat": 50.7410063,
+  "lon": -1.9756644,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), lorry and bus, ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 401.81,
+  "n": 93.49
+ },
+ "Southampton (Maybush)": {
+  "name": "Southampton (Maybush)",
+  "street": "Green Lane, Maybush",
+  "locality": "Southampton",
+  "postcode": "SO16 9FP",
+  "lat": 50.93267455555556,
+  "lon": -1.455116888888889,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 438.38,
+  "n": 114.94
+ },
+ "Newport (Isle Of Wight)": {
+  "name": "Newport (Isle Of Wight)",
+  "street": "Innovation Centre, St Cross Business Park, Newport",
+  "locality": "Newport",
+  "postcode": "PO30 5WB",
+  "lat": 50.71279180169492,
+  "lon": -1.2957677220338983,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair.",
+   "From Week Commencing 25.05.2026 All Mod2 bike tests will move from Newport (IOW) to Rookley LGV. Prichetts Way. Rookley, Ventor, PO38 3NG. Newport (IOW) will no longer conduct bike tests from this date",
+   "From Week Commencing 25.05.2026 All Mod2 bike tests will move from Newport (IOW) to Rookley LGV. Prichetts Way. Rookley, Ventor, PO38 3NG. Newport (IOW) will no longer conduct bike tests from this date"
+  ],
+  "e": 449.79,
+  "n": 90.58
+ },
+ "Rookley LGV": {
+  "name": "Rookley LGV",
+  "street": "Ventnor",
+  "locality": "Rookley",
+  "postcode": "PO38 3NG",
+  "lat": 50.65333604074073,
+  "lon": -1.2801358111111112,
+  "types": "",
+  "notes": [],
+  "e": 451.01,
+  "n": 83.97
+ },
+ "Southampton LGV": {
+  "name": "Southampton LGV",
+  "street": "Hillsons Road, Bottings Trading Estate, Botley",
+  "locality": "Southampton",
+  "postcode": "SO30 2DY",
+  "lat": 50.916201584,
+  "lon": -1.261567328,
+  "types": "",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 452.01,
+  "n": 113.25
+ },
+ "Lee On The Solent": {
+  "name": "Lee On The Solent",
+  "street": "The Richard Sainsbury Building, Daedalus Argus Gate Daedalus Drive",
+  "locality": "Lee on the Solent",
+  "postcode": "PO13 9JY",
+  "lat": 50.80994985849057,
+  "lon": -1.2006434264150943,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 3",
+  "notes": [],
+  "e": 456.41,
+  "n": 101.46
+ },
+ "Winchester": {
+  "name": "Winchester",
+  "street": "Christchurch Road",
+  "locality": "Winchester",
+  "postcode": "SO23 9SY",
+  "lat": 51.056489255555555,
+  "lon": -1.322570638888889,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 447.61,
+  "n": 128.79
+ },
+ "Portsmouth": {
+  "name": "Portsmouth",
+  "street": "Portsmouth Marriott Hotel, Southampton Road",
+  "locality": "Portsmouth",
+  "postcode": "PO6 4SH",
+  "lat": 50.845426325,
+  "lon": -1.0898758124999999,
+  "types": "car, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability.",
+   "Candidates are to park in the DVSA marked parking bays and arrive no more than 5 minutes before their test. There is no practicing allowed on site"
+  ],
+  "e": 464.12,
+  "n": 105.53
+ },
+ "Atherton (Manchester)": {
+  "name": "Atherton (Manchester)",
+  "street": "Gibfield Park Avenue, Atherton",
+  "locality": "Manchester",
+  "postcode": "M46 0SU",
+  "lat": 53.53014889117647,
+  "lon": -2.5057657264705884,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), lorry and bus, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 366.54,
+  "n": 403.85
+ },
+ "Cheetham Hill (Manchester)": {
+  "name": "Cheetham Hill (Manchester)",
+  "street": "Alderglen Road, Cheetham",
+  "locality": "Manchester",
+  "postcode": "M8 0AL",
+  "lat": 53.500896707407406,
+  "lon": -2.242265711111111,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 384.04,
+  "n": 400.48
+ },
+ "Chadderton": {
+  "name": "Chadderton",
+  "street": "9 Broadgate, Broadway Business Park, Chadderton",
+  "locality": "Oldham",
+  "postcode": "OL9 9XA",
+  "lat": 53.53221562289157,
+  "lon": -2.1693163855421687,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "e": 388.91,
+  "n": 403.96
+ },
+ "Sale (Manchester)": {
+  "name": "Sale (Manchester)",
+  "street": "36 - 38 Poplar Grove",
+  "locality": "Sale",
+  "postcode": "M33 7ER",
+  "lat": 53.4194367,
+  "lon": -2.3201991,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 378.82,
+  "n": 391.45
+ },
+ "West Didsbury (Manchester)": {
+  "name": "West Didsbury (Manchester)",
+  "street": "Unit 11, Christie Park",
+  "locality": "West Didsbury",
+  "postcode": "M21 7QY",
+  "lat": 53.424688046875,
+  "lon": -2.258269053125,
+  "types": "car, ADI part 3",
+  "notes": [
+   "Due to necessary car park improvements on 3rd July 2026 candidates are to park around the side of the test centre and across the front of the bays, please wait in your car with the instructor/accompanying driver &amp; the examiner will come to meet you at the car"
+  ],
+  "e": 382.91,
+  "n": 392.0
+ },
+ "Burgess Hill": {
+  "name": "Burgess Hill",
+  "street": "Off Charles Avenue, Victoria Industrial Estate",
+  "locality": "Burgess Hill",
+  "postcode": "RH15 9AG",
+  "lat": 50.95133502307692,
+  "lon": -0.15214786923076923,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 529.85,
+  "n": 118.48
+ },
+ "Worthing": {
+  "name": "Worthing",
+  "street": "DVSA Art Room, Field Place, The Boulevard",
+  "locality": "Worthing",
+  "postcode": "BN13 1NP",
+  "lat": 50.82058532121212,
+  "lon": -0.40840413030303035,
+  "types": "",
+  "notes": [
+   "This test centre has ramped access if required. Do not arrive more than 10 minutes before your test."
+  ],
+  "e": 512.14,
+  "n": 103.49
+ },
+ "Worthing LGV": {
+  "name": "Worthing LGV",
+  "street": "The Vinery Industrial Estate, Units 54 & 55, Arundel",
+  "locality": "West Sussex",
+  "postcode": "BN18 9PY",
+  "lat": 50.8407452915493,
+  "lon": -0.5069069450704226,
+  "types": "",
+  "notes": [
+   "Vocational testing only."
+  ],
+  "e": 505.22,
+  "n": 105.62
+ },
+ "Crawley": {
+  "name": "Crawley",
+  "street": "Unit 2 The Pavillions, Brighton Road , Pease Pottage",
+  "locality": "Crawley",
+  "postcode": "RH11 9BJ",
+  "lat": 51.08089304166666,
+  "lon": -0.20192178333333333,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "e": 526.06,
+  "n": 132.83
+ },
+ "Eastbourne": {
+  "name": "Eastbourne",
+  "street": "1 Coastguard Cottages, 84 Wartling Road",
+  "locality": "Eastbourne",
+  "postcode": "BN22 7PT",
+  "lat": 50.782311477777775,
+  "lon": 0.3089392111111111,
+  "types": "car, motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 562.91,
+  "n": 100.64
+ },
+ "Chichester": {
+  "name": "Chichester",
+  "street": "York House, City Fields Business Park, City Fields Way",
+  "locality": "Chichester",
+  "postcode": "PO20 2FR",
+  "lat": 50.85304074,
+  "lon": -0.7110125,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 490.83,
+  "n": 106.74
+ },
+ "Redhill Aerodrome": {
+  "name": "Redhill Aerodrome",
+  "street": "First Floor, Redhill Aerodrome Business Centre, Kings Mill Lane",
+  "locality": "Redhill",
+  "postcode": "RH1 5JZ",
+  "lat": 51.21674963095238,
+  "lon": -0.14324494047619046,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 530.12,
+  "n": 147.96
+ },
+ "Tunbridge Wells": {
+  "name": "Tunbridge Wells",
+  "street": "8 Upper Grosvenor Road",
+  "locality": "Tunbridge Wells",
+  "postcode": "TN1 2ES",
+  "lat": 51.136357,
+  "lon": 0.2641088,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [
+   "Please be aware that roadworks on the one-way system near the test centre will commence on 22nd July and are scheduled to last for 6 weeks. Customers are advised to plan their journeys carefully and allow extra travel time to ensure they arrive on time"
+  ],
+  "e": 558.5,
+  "n": 139.89
+ },
+ "Hastings (Ore)": {
+  "name": "Hastings (Ore)",
+  "street": "Brookway Business Park, Ivy House Lane, Ore",
+  "locality": "Hastings",
+  "postcode": "TN35 4NN",
+  "lat": 50.88176470379747,
+  "lon": 0.5984556253164557,
+  "types": "car, motorcycle module 1 (off-road), lorry and bus",
+  "notes": [
+   "All car and ADI booked from 4th March 2024 will be conducted from Hastings Centre, The Ridge, TN34 2SA. Parking will be sign posted. Please meet examiner in reception. There are toilet facilities available. LGV and Bike tests will still be conducted from the main site"
+  ],
+  "e": 582.86,
+  "n": 112.26
+ },
+ "Sevenoaks": {
+  "name": "Sevenoaks",
+  "street": "45 Argyle Road",
+  "locality": "Sevenoaks",
+  "postcode": "TN13 1HJ",
+  "lat": 51.27198962682927,
+  "lon": 0.18881757073170732,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 552.77,
+  "n": 154.83
+ },
+ "West Wickham (London)": {
+  "name": "West Wickham (London)",
+  "street": "56 Glebe Way",
+  "locality": "West Wickham",
+  "postcode": "BR4 0RL",
+  "lat": 51.37506688235294,
+  "lon": -0.01138185,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "e": 538.51,
+  "n": 165.88
+ },
+ "Bromley (London)": {
+  "name": "Bromley (London)",
+  "street": "121-123 Burnt Ash Lane",
+  "locality": "BROMLEY",
+  "postcode": "BR1 5AB",
+  "lat": 51.421051971428575,
+  "lon": 0.02111296964285714,
+  "types": "car",
+  "notes": [],
+  "e": 540.65,
+  "n": 171.08
+ },
+ "Sidcup (London)": {
+  "name": "Sidcup (London)",
+  "street": "2 Crayside, Five Arches Business Estate, Maidstone Road",
+  "locality": "Sidcup",
+  "postcode": "DA14 5AG",
+  "lat": 51.41929225915493,
+  "lon": 0.12235847887323945,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 547.69,
+  "n": 171.07
+ },
+ "Mitcham (London)": {
+  "name": "Mitcham (London)",
+  "street": "Redhouse Road, Mitcham",
+  "locality": "Surrey",
+  "postcode": "CR0 3AQ",
+  "lat": 51.390084362222225,
+  "lon": -0.135957,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 3",
+  "notes": [],
+  "e": 529.72,
+  "n": 167.31
+ },
+ "Belvedere (London)": {
+  "name": "Belvedere (London)",
+  "street": "33 Woolwich Road, Belvedere",
+  "locality": "Belvedere",
+  "postcode": "DA17 5EE",
+  "lat": 51.48358094545454,
+  "lon": 0.14230856818181817,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 548.84,
+  "n": 178.25
+ },
+ "Morden (London)": {
+  "name": "Morden (London)",
+  "street": "10 Tudor Drive",
+  "locality": "Morden",
+  "postcode": "SM4 4PE",
+  "lat": 51.386557612903225,
+  "lon": -0.21241172903225805,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "e": 524.48,
+  "n": 166.8
+ },
+ "Erith (London)": {
+  "name": "Erith (London)",
+  "street": "Crabtree, Manor Way North",
+  "locality": "Erith",
+  "postcode": "DA17 6LJ",
+  "lat": 51.502248540000004,
+  "lon": 0.16257913,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 3",
+  "notes": [],
+  "e": 550.21,
+  "n": 180.53
+ },
+ "Thurrock LGV (London)": {
+  "name": "Thurrock LGV (London)",
+  "street": "C/o Roadtrain (Essex), Burnley Road, Off Oliver Road,",
+  "locality": "West Thurrock ,Grays",
+  "postcode": "RM20 3EY",
+  "lat": 51.46606,
+  "lon": 0.269813,
+  "types": "",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "approx": "sector",
+  "e": 558.16,
+  "n": 177.88
+ },
+ "Goodmayes (London)": {
+  "name": "Goodmayes (London)",
+  "street": "98 Goodmayes Road, Ilford",
+  "locality": "Goodmayes",
+  "postcode": "IG3 9UZ",
+  "lat": 51.56375689811321,
+  "lon": 0.10995379433962264,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 546.35,
+  "n": 187.09
+ },
+ "Newport (Gwent) LGV": {
+  "name": "Newport (Gwent) LGV",
+  "street": "Newport Transport Ltd, 160 Corporation Road",
+  "locality": "Newport",
+  "postcode": "NP19 0WF",
+  "lat": 51.5866568,
+  "lon": -2.98389485,
+  "types": "",
+  "notes": [],
+  "e": 331.9,
+  "n": 187.96
+ },
+ "Cardiff (Llanishen)": {
+  "name": "Cardiff (Llanishen)",
+  "street": "Cardiff (Llanishen), Cardiff Business Park",
+  "locality": "Cardiff",
+  "postcode": "CF14 5GF",
+  "lat": 51.52269372200001,
+  "lon": -3.191371736,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 317.43,
+  "n": 181.08
+ },
+ "Monmouth": {
+  "name": "Monmouth",
+  "street": "Old Dixton Road",
+  "locality": "Monmouth",
+  "postcode": "NP25 3DP",
+  "lat": 51.813489268000005,
+  "lon": -2.709469188,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "e": 351.17,
+  "n": 213.02
+ },
+ "Barry": {
+  "name": "Barry",
+  "street": "Unit 16, Business Support Centre, Hood Road, Innovation Quarter, The Waterfront",
+  "locality": "Barry",
+  "postcode": "CF62 5QN",
+  "lat": 51.39970443846154,
+  "lon": -3.279168925641026,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "e": 311.11,
+  "n": 167.52
+ },
+ "Workington": {
+  "name": "Workington",
+  "street": "Unit 10-11, Moss Bay House, 40 Peart Rd, Derwent Howe Industrial Estate",
+  "locality": "Workington",
+  "postcode": "CA14 3YT",
+  "lat": 54.63478483125,
+  "lon": -3.569706634375,
+  "types": "",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 298.8,
+  "n": 527.77
+ },
+ "Carlisle": {
+  "name": "Carlisle",
+  "street": "Port Road Business Park, Port Road",
+  "locality": "Carlisle",
+  "postcode": "CA2 7AF",
+  "lat": 54.89672587733334,
+  "lon": -2.9527295133333333,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road)",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 338.95,
+  "n": 556.2
+ },
+ "Carlisle LGV": {
+  "name": "Carlisle LGV",
+  "street": "Kingstown Industrial Estate",
+  "locality": "Carlisle",
+  "postcode": "CA3 0HA",
+  "lat": 54.92373123205128,
+  "lon": -2.9516034987179487,
+  "types": "car, lorry and bus",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 339.17,
+  "n": 559.16
+ },
+ "Kendal (Oxenholme Road)": {
+  "name": "Kendal (Oxenholme Road)",
+  "street": "Lake District National Park Authority, Murley Moss, Oxenholme Road",
+  "locality": "Kendal",
+  "postcode": "LA9 7RL",
+  "lat": 54.31131764137931,
+  "lon": -2.734582824137931,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 352.25,
+  "n": 490.86
+ },
+ "Barrow In Furness": {
+  "name": "Barrow In Furness",
+  "street": "Trinity Enterprise Centre, Unit 11 Ironworks Road",
+  "locality": "Barrow-In-Furness",
+  "postcode": "LA14 2PN",
+  "lat": 54.11825535846154,
+  "lon": -3.2419289753846154,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 318.94,
+  "n": 469.89
+ },
+ "Dumfries": {
+  "name": "Dumfries",
+  "street": "161 Brooms Road, Dumfries & Galloway",
+  "locality": "Dumfries",
+  "postcode": "DG1 2SH",
+  "lat": 55.068960825,
+  "lon": -3.5984400125,
+  "types": "",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 298.14,
+  "n": 576.14
+ },
+ "Dumfries LGV": {
+  "name": "Dumfries LGV",
+  "street": "Catherinefield Industrial Est, Heathhall",
+  "locality": "Dumfries",
+  "postcode": "DG1 3PQ",
+  "lat": 55.09806071842105,
+  "lon": -3.5682927342105266,
+  "types": "",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 300.05,
+  "n": 579.27
+ },
+ "Castle Douglas": {
+  "name": "Castle Douglas",
+  "street": "Carlingwark Cottage, Carlingwark Arc, Buchan Street",
+  "locality": "Castle Douglas",
+  "postcode": "DG7 1TH",
+  "lat": 54.93142839230769,
+  "lon": -3.936183192307692,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 276.05,
+  "n": 561.36
+ },
+ "Heysham": {
+  "name": "Heysham",
+  "street": "Office 106 Lancaster Training Services, 5 Penrod Way",
+  "locality": "Heysham",
+  "postcode": "LA3 2UZ",
+  "lat": 54.036919568,
+  "lon": -2.902031788,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 341.05,
+  "n": 460.49
+ },
+ "Hexham": {
+  "name": "Hexham",
+  "street": "St Andrews House, Haugh Lane",
+  "locality": "Hexham",
+  "postcode": "NE46 3EW",
+  "lat": 54.97454522,
+  "lon": -2.1094787,
+  "types": "car",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 393.08,
+  "n": 564.44
+ },
+ "Cambridge (Brookmount Court)": {
+  "name": "Cambridge (Brookmount Court)",
+  "street": "Driving Test Centre Cambridge Brookmount Court, Units A & B Brookmount Court, Kirkwood Road",
+  "locality": "Cambridge",
+  "postcode": "CB4 2QH",
+  "lat": 52.23344208666666,
+  "lon": 0.13571300666666666,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 545.97,
+  "n": 261.6
+ },
+ "Cambridge (Hardwick)": {
+  "name": "Cambridge (Hardwick)",
+  "street": "25 St Neots Road, Hardwick",
+  "locality": "Cambridge",
+  "postcode": "CB23 7QH",
+  "lat": 52.21622129534884,
+  "lon": 0.021850432558139534,
+  "types": "",
+  "notes": [],
+  "e": 538.23,
+  "n": 259.49
+ },
+ "Letchworth": {
+  "name": "Letchworth",
+  "street": "Jackmans Place, Letchworth Garden City",
+  "locality": "Letchworth",
+  "postcode": "SG6 1RF",
+  "lat": 51.97837838888889,
+  "lon": -0.21462627222222222,
+  "types": "",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 522.72,
+  "n": 232.59
+ },
+ "Bury St Edmunds": {
+  "name": "Bury St Edmunds",
+  "street": "Tritron House, St Andrews Street North",
+  "locality": "Bury St Edmunds",
+  "postcode": "IP33 1TJ",
+  "lat": 52.24866845,
+  "lon": 0.71090825,
+  "types": "",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability. Do not use car park for practice purposes. No weekend testing during this period"
+  ],
+  "e": 585.17,
+  "n": 264.63
+ },
+ "Bishops Stortford": {
+  "name": "Bishops Stortford",
+  "street": "South Road",
+  "locality": "Bishops Stortford",
+  "postcode": "CM23 3JQ",
+  "lat": 51.86130368571428,
+  "lon": 0.16439327857142857,
+  "types": "car, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 549.14,
+  "n": 220.31
+ },
+ "Bedford": {
+  "name": "Bedford",
+  "street": "Bedford Heights, Manton Lane",
+  "locality": "Bedford",
+  "postcode": "MK41 7NY",
+  "lat": 52.1491311125,
+  "lon": -0.47682744375,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 504.34,
+  "n": 251.09
+ },
+ "Peterborough": {
+  "name": "Peterborough",
+  "street": "Second Drove, Fengate",
+  "locality": "Peterborough",
+  "postcode": "PE1 5XA",
+  "lat": 52.569307892,
+  "lon": -0.21913384,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 520.78,
+  "n": 298.3
+ },
+ "Peterborough LGV": {
+  "name": "Peterborough LGV",
+  "street": "Apex Training Services, Oxney Road",
+  "locality": "Peterborough",
+  "postcode": "PE1 5YW",
+  "lat": 52.58978748636364,
+  "lon": -0.19865323636363635,
+  "types": "",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 522.13,
+  "n": 300.63
+ },
+ "Llantrisant": {
+  "name": "Llantrisant",
+  "street": "School Road, Miskin",
+  "locality": "Llantrisant",
+  "postcode": "CF72 8YR",
+  "lat": 51.5241849,
+  "lon": -3.3650642,
+  "types": "car, lorry and bus, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 305.39,
+  "n": 181.47
+ },
+ "Merthyr Tydfil": {
+  "name": "Merthyr Tydfil",
+  "street": "Merthyr Industrial Park, Pentrebach",
+  "locality": "Merthyr Tydfil",
+  "postcode": "CF48 4DR",
+  "lat": 51.720113053333336,
+  "lon": -3.3556039033333334,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [],
+  "e": 306.45,
+  "n": 203.24
+ },
+ "Bridgend": {
+  "name": "Bridgend",
+  "street": "Crown Building, Angel Street",
+  "locality": "Bridgend",
+  "postcode": "CF31 4AD",
+  "lat": 51.5049547,
+  "lon": -3.579430825,
+  "types": "car, motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 290.44,
+  "n": 179.67
+ },
+ "Abergavenny": {
+  "name": "Abergavenny",
+  "street": "Station Road",
+  "locality": "Abergavenny",
+  "postcode": "NP7 5HT",
+  "lat": 51.815977,
+  "lon": -3.0106042,
+  "types": "car, ADI part 3",
+  "notes": [
+   "From 9th to the 13th of March 2026 all tests will be taken from Abergavenny Rugby Football Club. Bailey Park, Abergavenny, NP7 5SG"
+  ],
+  "e": 330.43,
+  "n": 213.52
+ },
+ "Swansea": {
+  "name": "Swansea",
+  "street": "Burrows Rd, off Langdon Rd, Kings Dock, St Thomas",
+  "locality": "Swansea",
+  "postcode": "SA1 8QY",
+  "lat": 51.62037179655172,
+  "lon": -3.9228903086206897,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 266.86,
+  "n": 193.06
+ },
+ "Chester": {
+  "name": "Chester",
+  "street": "Unit 16, Telford Court, Dunkirk Trading Estate, Chester Gates Dunkirk",
+  "locality": "Chester",
+  "postcode": "CH1 6LT",
+  "lat": 53.24680518933334,
+  "lon": -2.93246166,
+  "types": "car, motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 337.85,
+  "n": 372.6
+ },
+ "Upton": {
+  "name": "Upton",
+  "street": "Arrowe Park Rd",
+  "locality": "Upton",
+  "postcode": "CH49 0UF",
+  "lat": 53.3795593,
+  "lon": -3.0978924214285715,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 327.07,
+  "n": 387.5
+ },
+ "Speke (Liverpool)": {
+  "name": "Speke (Liverpool)",
+  "street": "Unit 3 Dakota Business Park, Skyhawk Avenue, Speke",
+  "locality": "Liverpool",
+  "postcode": "L19 2QR",
+  "lat": 53.34891870588235,
+  "lon": -2.8849541352941177,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 341.21,
+  "n": 383.93
+ },
+ "Wallasey": {
+  "name": "Wallasey",
+  "street": "17c King Street",
+  "locality": "Wallasey",
+  "postcode": "CH44 8AT",
+  "lat": 53.41882739583334,
+  "lon": -3.0273711750000003,
+  "types": "car, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 331.82,
+  "n": 391.82
+ },
+ "Norris Green (Liverpool)": {
+  "name": "Norris Green (Liverpool)",
+  "street": "Falklands Approach, Parthenon Drive",
+  "locality": "Norris Green",
+  "postcode": "L11 5BR",
+  "lat": 53.4440532,
+  "lon": -2.93023945,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 338.3,
+  "n": 394.55
+ },
+ "Widnes (Liverpool)": {
+  "name": "Widnes (Liverpool)",
+  "street": "Everite Road",
+  "locality": "Widnes",
+  "postcode": "WA8 8PT",
+  "lat": 53.362580369444444,
+  "lon": -2.771736016666667,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 348.69,
+  "n": 385.33
+ },
+ "Wrexham LGV": {
+  "name": "Wrexham LGV",
+  "street": "Llay Road, Llay",
+  "locality": "Wrexham",
+  "postcode": "LL12 0TL",
+  "lat": 53.09739211739131,
+  "lon": -3.008718643478261,
+  "types": "",
+  "notes": [],
+  "e": 332.52,
+  "n": 356.03
+ },
+ "Wrexham": {
+  "name": "Wrexham",
+  "street": "Ground Floor, 1 Birchall House, Wrexham Technology Park",
+  "locality": "Wrexham",
+  "postcode": "LL13 7YP",
+  "lat": 53.04865719215686,
+  "lon": -3.0135744254901957,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "e": 332.12,
+  "n": 350.67
+ },
+ "St Helens (Liverpool)": {
+  "name": "St Helens (Liverpool)",
+  "street": "1 Navigation Road, off Pocket Nook Street, St Helens",
+  "locality": "Liverpool",
+  "postcode": "WA9 1NS",
+  "lat": 53.458068488888884,
+  "lon": -2.7231067444444443,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [
+   "Candidates are to drive past the main fitness complex and use the last unit to the left. They are not required to enter the main complex. Please try to use the spaces closest to the last unit on the left as the car park is large with no designated bays."
+  ],
+  "e": 352.13,
+  "n": 395.84
+ },
+ "Rhyl": {
+  "name": "Rhyl",
+  "street": "Victoria Road",
+  "locality": "Rhyl",
+  "postcode": "LL18 2EL",
+  "lat": 53.3148520254902,
+  "lon": -3.4854647254901963,
+  "types": "car, motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 301.12,
+  "n": 380.8
+ },
+ "Chelmsford (Hanbury Road)": {
+  "name": "Chelmsford (Hanbury Road)",
+  "street": "9 Crittall Road",
+  "locality": "Witham",
+  "postcode": "CM8 3DR",
+  "lat": 51.806960571875,
+  "lon": 0.646785896875,
+  "types": "car, lorry and bus, ADI part 3",
+  "notes": [
+   "Chelmsford DTC is moving to a new permanent address: Unit 12, Cromar Way, Chelmsford, CM1 2GL. The last tests from the temporary location, The County Hotel, CM1 2PZ Will be on 02/10/26"
+  ],
+  "e": 582.56,
+  "n": 215.34
+ },
+ "Basildon": {
+  "name": "Basildon",
+  "street": "Paycocke Road",
+  "locality": "Basildon",
+  "postcode": "SS14 3JS",
+  "lat": 51.589579,
+  "lon": 0.487871375,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 572.45,
+  "n": 190.74
+ },
+ "Brentwood (London)": {
+  "name": "Brentwood (London)",
+  "street": "89 Warley Hill",
+  "locality": "Brentwood",
+  "postcode": "CM14 5JN",
+  "lat": 51.61050270333333,
+  "lon": 0.29701231333333333,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 559.14,
+  "n": 192.69
+ },
+ "Hornchurch (London)": {
+  "name": "Hornchurch (London)",
+  "street": "75 Station Lane, Hornchurch",
+  "locality": "Romford",
+  "postcode": "RM12 6JX",
+  "lat": 51.5592749,
+  "lon": 0.2209326,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 554.05,
+  "n": 186.82
+ },
+ "Southend-on-Sea": {
+  "name": "Southend-on-Sea",
+  "street": "The Tickfield Centre, Tickfield Industrial Estate, Tickfield Ave",
+  "locality": "Southend-on-Sea",
+  "postcode": "SS2 6LL",
+  "lat": 51.548461556962025,
+  "lon": 0.7090826924050634,
+  "types": "car",
+  "notes": [],
+  "e": 587.92,
+  "n": 186.76
+ },
+ "Loughton (London)": {
+  "name": "Loughton (London)",
+  "street": "Crown Buildings, 284 High Road",
+  "locality": "Loughton",
+  "postcode": "IG10 1RB",
+  "lat": 51.649635712,
+  "lon": 0.05665991733333333,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 542.38,
+  "n": 196.53
+ },
+ "Tilbury": {
+  "name": "Tilbury",
+  "street": "Montana House, Russell Road",
+  "locality": "Tilbury",
+  "postcode": "RM18 7AE",
+  "lat": 51.464036820000004,
+  "lon": 0.35098834,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 563.43,
+  "n": 176.55
+ },
+ "Chingford (London)": {
+  "name": "Chingford (London)",
+  "street": "Doric House, 128 Station Road",
+  "locality": "Chingford",
+  "postcode": "E4 6AD",
+  "lat": 51.633511666666664,
+  "lon": 0.0090557,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 539.13,
+  "n": 194.66
+ },
+ "Colchester": {
+  "name": "Colchester",
+  "street": "Grange Way",
+  "locality": "Colchester",
+  "postcode": "CO2 8HF",
+  "lat": 51.87208371777778,
+  "lon": 0.9280588533333334,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 601.67,
+  "n": 223.33
+ },
+ "Clacton-on- Sea": {
+  "name": "Clacton-on- Sea",
+  "street": "103 - 105 Carnarvon Road",
+  "locality": "Clacton-on-Sea",
+  "postcode": "CO15 6QA",
+  "lat": 51.794123920370374,
+  "lon": 1.1528024666666665,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "e": 617.5,
+  "n": 215.3
+ },
+ "Ipswich": {
+  "name": "Ipswich",
+  "street": "Wentworth Road, Ransomes Europark",
+  "locality": "Ipswich",
+  "postcode": "IP3 9SW",
+  "lat": 52.030169575,
+  "lon": 1.21809955625,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), lorry and bus, ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 621.0,
+  "n": 241.76
+ },
+ "Tolworth (London)": {
+  "name": "Tolworth (London)",
+  "street": "Douglas House, 1B Douglas Road",
+  "locality": "Tolworth",
+  "postcode": "KT6 7RZ",
+  "lat": 51.38303607959184,
+  "lon": -0.2935600183673469,
+  "types": "car, motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 518.85,
+  "n": 166.26
+ },
+ "Isleworth (Fleming Way)": {
+  "name": "Isleworth (Fleming Way)",
+  "street": "The Wireless Factory,, Fleming Way",
+  "locality": "Isleworth",
+  "postcode": "TW7 6DB",
+  "lat": 51.466074793103445,
+  "lon": -0.33716553103448277,
+  "types": "car, ADI part 3",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 515.6,
+  "n": 175.46
+ },
+ "Canterbury": {
+  "name": "Canterbury",
+  "street": "25 New Dover Road",
+  "locality": "Canterbury",
+  "postcode": "CT1 3AS",
+  "lat": 51.27479637142857,
+  "lon": 1.0883493714285715,
+  "types": "car",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 615.48,
+  "n": 157.4
+ },
+ "Herne Bay": {
+  "name": "Herne Bay",
+  "street": "Altria Business Park, Margate Road, Thanet Way",
+  "locality": "Herne Bay",
+  "postcode": "CT6 6GZ",
+  "lat": 51.361922021052635,
+  "lon": 1.1504167973684212,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 619.39,
+  "n": 167.25
+ },
+ "Folkestone": {
+  "name": "Folkestone",
+  "street": "Palting House, Trinity Road",
+  "locality": "Folkestone",
+  "postcode": "CT20 2TS",
+  "lat": 51.079069399999995,
+  "lon": 1.1675026499999999,
+  "types": "car, motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 621.96,
+  "n": 135.86
+ },
+ "Ashford (Kent)": {
+  "name": "Ashford (Kent)",
+  "street": "International House, Dover Place",
+  "locality": "Ashford",
+  "postcode": "TN23 1HU",
+  "lat": 51.14464469999999,
+  "lon": 0.8760655611111111,
+  "types": "car, ADI part 3",
+  "notes": [
+   "Ashford Test Centre is moving to a new address. To gain access to the car park candidates will need to enter through the automatic barrier"
+  ],
+  "e": 601.28,
+  "n": 142.31
+ },
+ "Gillingham": {
+  "name": "Gillingham",
+  "street": "Unit 1, Astra Park, Courteney Road",
+  "locality": "Gillingham",
+  "postcode": "ME8 0EZ",
+  "lat": 51.3649688625,
+  "lon": 0.5806320875000001,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 3",
+  "notes": [],
+  "e": 579.71,
+  "n": 166.02
+ },
+ "Medway Ambely Road (Formally Gillingham LGV)": {
+  "name": "Medway Ambely Road (Formally Gillingham LGV)",
+  "street": "Driving Test Centre Gillingham LGV, Ambley Road",
+  "locality": "Gillingham",
+  "postcode": "ME8 0SJ",
+  "lat": 51.36168885,
+  "lon": 0.577753,
+  "types": "",
+  "notes": [],
+  "e": 579.55,
+  "n": 165.71
+ },
+ "Maidstone": {
+  "name": "Maidstone",
+  "street": "Unit 1 North Court, South Park Business Village, Armstrong Road",
+  "locality": "Maidstone",
+  "postcode": "ME15 6JZ",
+  "lat": 51.26085051304348,
+  "lon": 0.526270404347826,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "There are toilet facilities for customers and a café for accompanying drivers to wait in. Candidates should use the overflow carpark of Bollington Football Club which is next door on Ovenhouse Lane or follow DVSA signage."
+  ],
+  "e": 576.34,
+  "n": 154.33
+ },
+ "Coventry": {
+  "name": "Coventry",
+  "street": "Bayton Road Industrial Estate, 42, Bayton Road",
+  "locality": "Coventry",
+  "postcode": "CV7 9EJ",
+  "lat": 52.463955855844155,
+  "lon": -1.4759545805194805,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 435.75,
+  "n": 285.22
+ },
+ "Rugby": {
+  "name": "Rugby",
+  "street": "Aspect House, 66B Somers Road",
+  "locality": "Rugby",
+  "postcode": "CV22 7DH",
+  "lat": 52.37118052352941,
+  "lon": -1.2875200852941175,
+  "types": "car",
+  "notes": [],
+  "e": 448.6,
+  "n": 275.01
+ },
+ "Warwick (Wedgenock House)": {
+  "name": "Warwick (Wedgenock House)",
+  "street": "Driving Test Centre Warwick, Ground Floor Wedgnock House Wedgnock Lane",
+  "locality": "Warwick",
+  "postcode": "CV34 5AP",
+  "lat": 52.295083399999996,
+  "lon": -1.59807962,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [],
+  "e": 427.52,
+  "n": 266.36
+ },
+ "Nuneaton": {
+  "name": "Nuneaton",
+  "street": "54 Vernons Lane, Stockingford",
+  "locality": "Nuneaton",
+  "postcode": "CV10 8AA",
+  "lat": 52.5247195852459,
+  "lon": -1.488561686885246,
+  "types": "car",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 434.81,
+  "n": 291.98
+ },
+ "Hinckley": {
+  "name": "Hinckley",
+  "street": "33 Brookside",
+  "locality": "Hinckley",
+  "postcode": "LE10 2TG",
+  "lat": 52.53376387592593,
+  "lon": -1.3701135462962963,
+  "types": "car, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 442.82,
+  "n": 293.07
+ },
+ "Northwich": {
+  "name": "Northwich",
+  "street": "4 Felix Road, Winnington",
+  "locality": "Northwich",
+  "postcode": "CW8 4BU",
+  "lat": 53.25961085,
+  "lon": -2.52600675,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 364.99,
+  "n": 373.76
+ },
+ "Crewe": {
+  "name": "Crewe",
+  "street": "6 Nile Street",
+  "locality": "Crewe",
+  "postcode": "CW2 7LL",
+  "lat": 53.089839525925925,
+  "lon": -2.4440689,
+  "types": "car",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 370.35,
+  "n": 354.83
+ },
+ "Macclesfield": {
+  "name": "Macclesfield",
+  "street": "Unit 4 Bailey Court, Green Street",
+  "locality": "Macclesfield",
+  "postcode": "SK10 1JQ",
+  "lat": 53.25808211627907,
+  "lon": -2.1203535023255813,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [],
+  "e": 392.08,
+  "n": 373.44
+ },
+ "Stoke on Trent (Cobridge)": {
+  "name": "Stoke on Trent (Cobridge)",
+  "street": "8 Elder Road, Cobridge",
+  "locality": "Stoke-On-Trent",
+  "postcode": "ST6 2HE",
+  "lat": 53.04033535714286,
+  "lon": -2.1880496714285713,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 387.49,
+  "n": 349.24
+ },
+ "Warrington": {
+  "name": "Warrington",
+  "street": "Warrington Borough Council Orford Day Centre, Festival Avenue",
+  "locality": "Warrington",
+  "postcode": "WA2 9EP",
+  "lat": 53.40996543809524,
+  "lon": -2.5792799904761905,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "e": 361.59,
+  "n": 390.5
+ },
+ "Stoke on Trent (Newcastle under Lyme)": {
+  "name": "Stoke on Trent (Newcastle under Lyme)",
+  "street": "Parklands, Clayton Lane, Trent Vale",
+  "locality": "Stoke-On-Trent",
+  "postcode": "ST4 6PQ",
+  "lat": 52.9961191125,
+  "lon": -2.212497925,
+  "types": "car, motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 385.86,
+  "n": 344.36
+ },
+ "Dundee": {
+  "name": "Dundee",
+  "street": "Block 23B, Kilspindie Place, Dunsinane Industrial Estate",
+  "locality": "Dundee",
+  "postcode": "DD2 3QH",
+  "lat": 56.47844909705882,
+  "lon": -3.0097066970588235,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 337.88,
+  "n": 732.29
+ },
+ "Arbroath": {
+  "name": "Arbroath",
+  "street": "Asda Supermarket, Westway Retail Park, Dundee Rd",
+  "locality": "Arbroath",
+  "postcode": "DD11 2NQ",
+  "lat": 56.550159365517246,
+  "lon": -2.6121120965517237,
+  "types": "car",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 362.44,
+  "n": 739.98
+ },
+ "Forfar": {
+  "name": "Forfar",
+  "street": "ASDA supercentre, Unit 1, New Road",
+  "locality": "Forfar",
+  "postcode": "DD8 2AE",
+  "lat": 56.64252779756097,
+  "lon": -2.8892451097560974,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 345.55,
+  "n": 750.46
+ },
+ "Perth (Arran Road)": {
+  "name": "Perth (Arran Road)",
+  "street": "Arran Road, North Muirton Ind Estate, Tayside",
+  "locality": "Perth",
+  "postcode": "PH1 3DZ",
+  "lat": 56.417116807499994,
+  "lon": -3.45821432375,
+  "types": "car, lorry and bus",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 310.15,
+  "n": 725.93
+ },
+ "Kirkcaldy": {
+  "name": "Kirkcaldy",
+  "street": "10 Randolph Place, Kirkcaldy",
+  "locality": "Fife",
+  "postcode": "KY1 2YX",
+  "lat": 56.13497959354839,
+  "lon": -3.125806893548387,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 330.14,
+  "n": 694.25
+ },
+ "Dunfermline": {
+  "name": "Dunfermline",
+  "street": "Vine Conference Centre, 131 Garvock Hill",
+  "locality": "Dunfermline",
+  "postcode": "KY11 4JU",
+  "lat": 56.07597975000001,
+  "lon": -3.4263677666666665,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 311.31,
+  "n": 687.92
+ },
+ "Haddington": {
+  "name": "Haddington",
+  "street": "Herdmanflatt",
+  "locality": "Haddington",
+  "postcode": "EH41 3NG",
+  "lat": 55.9618867,
+  "lon": -2.7827940333333334,
+  "types": "car",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 351.27,
+  "n": 674.48
+ },
+ "Pitlochry": {
+  "name": "Pitlochry",
+  "street": "The Hall, West Moulin Road",
+  "locality": "Pitlochry",
+  "postcode": "PH16 5EA",
+  "lat": 56.705337549999996,
+  "lon": -3.7330183433333333,
+  "types": "car",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 293.98,
+  "n": 758.45
+ },
+ "Edinburgh (Musselburgh)": {
+  "name": "Edinburgh (Musselburgh)",
+  "street": "Newhailes Industrial Estate, Newhailes Road, Olivebank, Musselburgh",
+  "locality": "Edinburgh",
+  "postcode": "EH21 6SJ",
+  "lat": 55.9427754,
+  "lon": -3.0671671,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 333.44,
+  "n": 672.71
+ },
+ "Derby (Alvaston)": {
+  "name": "Derby (Alvaston)",
+  "street": "Off Belmore Way, Alvaston",
+  "locality": "Derby",
+  "postcode": "DE21 7AY",
+  "lat": 52.9017886,
+  "lon": -1.4310489,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 438.37,
+  "n": 333.97
+ },
+ "Nottingham (Chilwell)": {
+  "name": "Nottingham (Chilwell)",
+  "street": "Unit 24, Eldon Business Park, Eldon Road",
+  "locality": "Beeston",
+  "postcode": "NG9 6DZ",
+  "lat": 52.904606242,
+  "lon": -1.238235602,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 451.33,
+  "n": 334.41
+ },
+ "Watnall": {
+  "name": "Watnall",
+  "street": "Driving Test Centre Watnall LGV, Fernwood House, Fernwood Drive, Main Road",
+  "locality": "Watnall",
+  "postcode": "NG16 1LA",
+  "lat": 53.007314522222224,
+  "lon": -1.252236811111111,
+  "types": "",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 450.25,
+  "n": 345.82
+ },
+ "Burton on Trent": {
+  "name": "Burton on Trent",
+  "street": "Wellington Park, Burton on Trent",
+  "locality": "Burton",
+  "postcode": "DE14 2TG",
+  "lat": 52.79582535,
+  "lon": -1.6569969277777779,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 423.21,
+  "n": 322.12
+ },
+ "Loughborough": {
+  "name": "Loughborough",
+  "street": "Ark Business Centre, Gordon Road",
+  "locality": "Loughborough",
+  "postcode": "LE11 1JP",
+  "lat": 52.78066965166667,
+  "lon": -1.20093341,
+  "types": "car",
+  "notes": [],
+  "e": 454.0,
+  "n": 320.64
+ },
+ "Ashfield": {
+  "name": "Ashfield",
+  "street": "Ground Floor, Sherwood House, Off Coxmoor Road",
+  "locality": "Sutton-in-Ashfield",
+  "postcode": "NG17 5LA",
+  "lat": 53.12555900133333,
+  "lon": -1.2361038666666666,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 451.19,
+  "n": 358.87
+ },
+ "Nottingham (Colwick )": {
+  "name": "Nottingham (Colwick )",
+  "street": "Private Road No 5, Colwick Industrial Estate",
+  "locality": "Nottingham",
+  "postcode": "NG4 2JU",
+  "lat": 52.956914079166665,
+  "lon": -1.0700578041666666,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road)",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 462.55,
+  "n": 340.38
+ },
+ "Chesterfield": {
+  "name": "Chesterfield",
+  "street": "Bus Garage, Approach Road, Stonegravels",
+  "locality": "Chesterfield",
+  "postcode": "S41 7LT",
+  "lat": 53.24435516521739,
+  "lon": -1.4260520391304348,
+  "types": "car, motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 438.42,
+  "n": 372.1
+ },
+ "Lichfield": {
+  "name": "Lichfield",
+  "street": "Lower Sanford Street",
+  "locality": "Lichfield",
+  "postcode": "WS13 6RB",
+  "lat": 52.68151242727272,
+  "lon": -1.8348954318181818,
+  "types": "car",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 411.25,
+  "n": 309.33
+ },
+ "Leicester (Cannock Street)": {
+  "name": "Leicester (Cannock Street)",
+  "street": "40 Cannock Street, Barkbythorpe Road, Troon Industrial Estate",
+  "locality": "Leicester",
+  "postcode": "LE4 9HT",
+  "lat": 52.663547,
+  "lon": -1.0803571,
+  "types": "car, lorry and bus, ADI part 3",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 462.29,
+  "n": 307.71
+ },
+ "Newton Stewart": {
+  "name": "Newton Stewart",
+  "street": "Driving Test Centre Newton Stewart, The Crown Hotel",
+  "locality": "Newton Stewart",
+  "postcode": "DG8 6JW",
+  "lat": 54.95309803043478,
+  "lon": -4.481678065217392,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 241.17,
+  "n": 564.89
+ },
+ "Cumnock": {
+  "name": "Cumnock",
+  "street": "Town Hall, 2 Hall Terrace",
+  "locality": "Cumnock",
+  "postcode": "KA18 1DX",
+  "lat": 55.45180104090909,
+  "lon": -4.2643136,
+  "types": "car, ADI part 3",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 256.9,
+  "n": 619.86
+ },
+ "Lanark": {
+  "name": "Lanark",
+  "street": "Lanark Agricultural Centre",
+  "locality": "Lanark",
+  "postcode": "ML11 9AX",
+  "lat": 55.66237295384615,
+  "lon": -3.7470141769230767,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 290.21,
+  "n": 642.44
+ },
+ "Hawick": {
+  "name": "Hawick",
+  "street": "Driving Test Centre Hawick Burnfoot Community Hub, 89 Brunfoot Road",
+  "locality": "Hawick",
+  "postcode": "TD9 8EJ",
+  "lat": 55.43620776785714,
+  "lon": -2.766526314285714,
+  "types": "car, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 351.55,
+  "n": 616.09
+ },
+ "Durham LGV": {
+  "name": "Durham LGV",
+  "street": "Driving Test Centre Durham LGV, Durham City House, St Johns Road, Meadowfield",
+  "locality": "Durham",
+  "postcode": "DH7 8XQ",
+  "lat": 54.749972380952386,
+  "lon": -1.6112633428571428,
+  "types": "",
+  "notes": [
+   "This test centre has ramped access if required."
+  ],
+  "e": 425.13,
+  "n": 539.5
+ },
+ "Durham": {
+  "name": "Durham",
+  "street": "1st Floor Enna House, Whitfield Court Industrial Estate, St Johns Rd",
+  "locality": "Meadowfield",
+  "postcode": "DH7 8XL",
+  "lat": 54.746715276249994,
+  "lon": -1.610106005,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 425.21,
+  "n": 539.13
+ },
+ "Sunderland": {
+  "name": "Sunderland",
+  "street": "River Bank Road, North Hylton Road Industrial Estate",
+  "locality": "Sunderland",
+  "postcode": "SR5 3JJ",
+  "lat": 54.92145688947368,
+  "lon": -1.4266738578947369,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 436.72,
+  "n": 558.65
+ },
+ "Gateshead": {
+  "name": "Gateshead",
+  "street": "Waterside Drive, Dunston",
+  "locality": "Gateshead",
+  "postcode": "NE11 9HU",
+  "lat": 54.95724381764706,
+  "lon": -1.6564223294117648,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 422.13,
+  "n": 562.55
+ },
+ "Hartlepool": {
+  "name": "Hartlepool",
+  "street": "Unit 20, Newburn Bridge Industrial Estate, Mainsforth Terrace",
+  "locality": "Hartlepool",
+  "postcode": "TS25 1TZ",
+  "lat": 54.67669191142857,
+  "lon": -1.2012190342857143,
+  "types": "car",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 451.6,
+  "n": 531.63
+ },
+ "Gosforth": {
+  "name": "Gosforth",
+  "street": "Sandy lane, Gosforth",
+  "locality": "Newcastle Upon Tyne",
+  "postcode": "NE3 5HB",
+  "lat": 55.0423217,
+  "lon": -1.6097076000000001,
+  "types": "car, lorry and bus, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 425.08,
+  "n": 571.97
+ },
+ "Darlington": {
+  "name": "Darlington",
+  "street": "DVSA, High Point Business Park, Yarm Road",
+  "locality": "Darlington",
+  "postcode": "DL1 4PW",
+  "lat": 54.518793145454545,
+  "lon": -1.5124491727272726,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), lorry and bus, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 431.48,
+  "n": 513.87
+ },
+ "Middlesbrough": {
+  "name": "Middlesbrough",
+  "street": "Maxwell Road, Cleveland",
+  "locality": "Middlesbrough",
+  "postcode": "TS3 8TE",
+  "lat": 54.571764200000004,
+  "lon": -1.189971425,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 452.49,
+  "n": 519.89
+ },
+ "Blyth": {
+  "name": "Blyth",
+  "street": "Unit 3 Sextant House, Freehold Street",
+  "locality": "Blyth",
+  "postcode": "NE24 3BA",
+  "lat": 55.124586545,
+  "lon": -1.5023156425,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 431.83,
+  "n": 581.25
+ },
+ "Northallerton": {
+  "name": "Northallerton",
+  "street": "Elder House, East Road",
+  "locality": "Northallerton",
+  "postcode": "DL6 1NU",
+  "lat": 54.34025645,
+  "lon": -1.4320951499999999,
+  "types": "car",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 437.02,
+  "n": 494.0
+ },
+ "Scunthorpe": {
+  "name": "Scunthorpe",
+  "street": "Onward Way, off Warren Road, Scunthorpe",
+  "locality": "Humberside",
+  "postcode": "DN15 6XH",
+  "lat": 53.59948741341463,
+  "lon": -0.6432014195121951,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 489.67,
+  "n": 412.15
+ },
+ "Doncaster": {
+  "name": "Doncaster",
+  "street": "Unit 10 & 11 Heather Court, Shaw Wood Business Park, Shaw Wood Way",
+  "locality": "Doncaster",
+  "postcode": "DN2 5YL",
+  "lat": 53.54292729615384,
+  "lon": -1.0865942,
+  "types": "car",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 460.63,
+  "n": 405.54
+ },
+ "Hull": {
+  "name": "Hull",
+  "street": "Reservoir Road, Off Clough Rd, Kingston upon Hull",
+  "locality": "Hull",
+  "postcode": "HU6 7PY",
+  "lat": 53.767706245,
+  "lon": -0.33559156,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 509.83,
+  "n": 431.46
+ },
+ "Beverley LGV": {
+  "name": "Beverley LGV",
+  "street": "Old Beck Road, Off Groveshill Road",
+  "locality": "Beverley",
+  "postcode": "HU17 0JG",
+  "lat": 53.843457439999995,
+  "lon": -0.40449753375,
+  "types": "",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 505.06,
+  "n": 439.74
+ },
+ "Grimsby Coldwater": {
+  "name": "Grimsby Coldwater",
+  "street": "Estate Road 1, South Humberside Trading Estate, Pyewipe",
+  "locality": "Grimsby",
+  "postcode": "DN31 2TB",
+  "lat": 53.58040953289474,
+  "lon": -0.11627067763157894,
+  "types": "car, motorcycle module 2 (on-road), lorry and bus, ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 524.86,
+  "n": 411.01
+ },
+ "Lincoln": {
+  "name": "Lincoln",
+  "street": "Earlsfield Close, Off Sadler Road",
+  "locality": "Lincoln",
+  "postcode": "LN6 3RT",
+  "lat": 53.2038483,
+  "lon": -0.6125656388888889,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 492.81,
+  "n": 368.34
+ },
+ "Worksop": {
+  "name": "Worksop",
+  "street": "Unit 4, The Point, Coach Road, Shireoaks",
+  "locality": "Worksop",
+  "postcode": "S81 8BW",
+  "lat": 53.323193520833335,
+  "lon": -1.1593421375000001,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 456.08,
+  "n": 381.02
+ },
+ "Pontefract": {
+  "name": "Pontefract",
+  "street": "7 Flemming Court, Whistler Drive",
+  "locality": "Castleford",
+  "postcode": "WF10 5HW",
+  "lat": 53.70770174166666,
+  "lon": -1.3406900208333334,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 443.63,
+  "n": 423.68
+ },
+ "Louth": {
+  "name": "Louth",
+  "street": "Meridian Leisure Centre, Wood Lane",
+  "locality": "Louth",
+  "postcode": "LN11 8RS",
+  "lat": 53.36345060714286,
+  "lon": 0.015501142857142856,
+  "types": "car",
+  "notes": [],
+  "e": 534.22,
+  "n": 387.09
+ },
+ "Rotherham": {
+  "name": "Rotherham",
+  "street": "Mangham Way, Off Mangham Rd",
+  "locality": "Rotherham",
+  "postcode": "S61 4RL",
+  "lat": 53.442276920000005,
+  "lon": -1.3580039919999998,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 3",
+  "notes": [],
+  "e": 442.73,
+  "n": 394.13
+ },
+ "Exeter": {
+  "name": "Exeter",
+  "street": "Thorverton Road, Marsh Barton",
+  "locality": "Exeter",
+  "postcode": "EX2 8FS",
+  "lat": 50.698660714285715,
+  "lon": -3.5156908142857146,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 293.05,
+  "n": 89.89
+ },
+ "Exeter LGV": {
+  "name": "Exeter LGV",
+  "street": "Grace Road, Marsh Barton",
+  "locality": "Exeter",
+  "postcode": "EX2 8PU",
+  "lat": 50.70496216086957,
+  "lon": -3.5315534913043476,
+  "types": "",
+  "notes": [],
+  "e": 291.95,
+  "n": 90.63
+ },
+ "Dudley": {
+  "name": "Dudley",
+  "street": "Newton House, The Pensnett Estate",
+  "locality": "Kingswinford",
+  "postcode": "DY6 7YE",
+  "lat": 52.5017937,
+  "lon": -2.1541547428571426,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "e": 389.63,
+  "n": 289.33
+ },
+ "Featherstone": {
+  "name": "Featherstone",
+  "street": "Driving Test Centre Featherstone LGV, Cat & Kitten Lane,",
+  "locality": "Featherstone",
+  "postcode": "WV10 7JD",
+  "lat": 52.64159274285714,
+  "lon": -2.112754614285714,
+  "types": "car, lorry and bus, ADI part 2, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 392.39,
+  "n": 304.76
+ },
+ "Wanstead (London)": {
+  "name": "Wanstead (London)",
+  "street": "2 Devon House, Hermon Hill",
+  "locality": "Wanstead",
+  "postcode": "E11 2AW",
+  "lat": 51.580530708333335,
+  "lon": 0.023827208333333332,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "e": 540.33,
+  "n": 188.78
+ },
+ "Tottenham": {
+  "name": "Tottenham",
+  "street": "Driving Test Centre Tottenham Annex Building, Selby Centre, Selby Road",
+  "locality": "Tottenham",
+  "postcode": "N17 8JL",
+  "lat": 51.60703884166667,
+  "lon": -0.0787393,
+  "types": "car",
+  "notes": [],
+  "e": 533.12,
+  "n": 191.59
+ },
+ "Wood Green (London)": {
+  "name": "Wood Green (London)",
+  "street": "Wood Green Crown Court, Woodhall House, Lordship Lane",
+  "locality": "Wood Green",
+  "postcode": "N22 5LF",
+  "lat": 51.5988241,
+  "lon": -0.1051129,
+  "types": "car",
+  "notes": [],
+  "e": 531.34,
+  "n": 190.59
+ },
+ "Enfield (Brancroft Way)": {
+  "name": "Enfield (Brancroft Way)",
+  "street": "33 Brancroft Way, Brimsdown",
+  "locality": "Enfield",
+  "postcode": "EN3 7NJ",
+  "lat": 51.66215427763158,
+  "lon": -0.02813136315789474,
+  "types": "",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 536.37,
+  "n": 197.46
+ },
+ "Edinburgh (Currie)": {
+  "name": "Edinburgh (Currie)",
+  "street": "13-15 Bryce Road, Currie",
+  "locality": "Edinburgh",
+  "postcode": "EH14 5LT",
+  "lat": 55.89990652307692,
+  "lon": -3.3080627923076924,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 318.3,
+  "n": 668.2
+ },
+ "Livingston": {
+  "name": "Livingston",
+  "street": "Houston Industrial Estate",
+  "locality": "Livingston",
+  "postcode": "EH54 5DE",
+  "lat": 55.90653624603175,
+  "lon": -3.501294117460317,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), lorry and bus, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 306.23,
+  "n": 669.14
+ },
+ "Peebles": {
+  "name": "Peebles",
+  "street": "Tweeddale District Council, Rosetta Road",
+  "locality": "Peebles",
+  "postcode": "EH45 8DN",
+  "lat": 55.657547740000005,
+  "lon": -3.19432612,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 324.96,
+  "n": 641.09
+ },
+ "Galashiels": {
+  "name": "Galashiels",
+  "street": "1 Croft Street, Scottish Borders",
+  "locality": "Galashiels",
+  "postcode": "TD1 3BH",
+  "lat": 55.61240684074074,
+  "lon": -2.8022989481481484,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 349.54,
+  "n": 635.74
+ },
+ "Grangemouth": {
+  "name": "Grangemouth",
+  "street": "Unit 7, Grangemouth Business Centre, 3 Roseland Hall",
+  "locality": "Grangemouth",
+  "postcode": "FK3 8WJ",
+  "lat": 56.0110733,
+  "lon": -3.7414301,
+  "types": "car, motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 291.54,
+  "n": 681.18
+ },
+ "Newton Abbot": {
+  "name": "Newton Abbot",
+  "street": "Vander House, Brunel Road",
+  "locality": "Newton Abbot",
+  "postcode": "TQ12 4YQ",
+  "lat": 50.52743072,
+  "lon": -3.5973205399999997,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "e": 286.89,
+  "n": 70.95
+ },
+ "Barnstaple": {
+  "name": "Barnstaple",
+  "street": "Unit 1A, Benning Court (off Riverside Road), Pottington Industrial Estate",
+  "locality": "Barnstaple",
+  "postcode": "EX31 1AB",
+  "lat": 51.08515332666666,
+  "lon": -4.08294292,
+  "types": "",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 254.23,
+  "n": 133.81
+ },
+ "Launceston": {
+  "name": "Launceston",
+  "street": "Suite 4 Sheers Barton Barns, Lawhitton",
+  "locality": "Launceston",
+  "postcode": "PL15 9NJ",
+  "lat": 50.61319289130435,
+  "lon": -4.333574569565218,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [],
+  "e": 235.21,
+  "n": 81.76
+ },
+ "Plymouth LGV": {
+  "name": "Plymouth LGV",
+  "street": "Agaton Fort, Agaton Fort Road",
+  "locality": "Plymouth",
+  "postcode": "PL5 2QZ",
+  "lat": 50.4151149,
+  "lon": -4.1741861,
+  "types": "",
+  "notes": [],
+  "e": 245.63,
+  "n": 59.51
+ },
+ "Plymouth": {
+  "name": "Plymouth",
+  "street": "Ernesettle Lane",
+  "locality": "Plymouth",
+  "postcode": "PL5 2EY",
+  "lat": 50.4160355175,
+  "lon": -4.18555765,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 245.07,
+  "n": 59.26
+ },
+ "Stirling": {
+  "name": "Stirling",
+  "street": "Government Buildings, 2 St Ninians Road",
+  "locality": "Stirling",
+  "postcode": "FK8 2HF",
+  "lat": 56.110554,
+  "lon": -3.939523,
+  "types": "",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 279.49,
+  "n": 692.56
+ },
+ "Callander": {
+  "name": "Callander",
+  "street": "Callander Youth Hostel, 6 Bridgend",
+  "locality": "Callander",
+  "postcode": "FK17 8AG",
+  "lat": 56.24136483454545,
+  "lon": -4.217383303636364,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "e": 262.65,
+  "n": 707.64
+ },
+ "Crieff": {
+  "name": "Crieff",
+  "street": "Crieff Fire Station, Broich Road",
+  "locality": "Crieff",
+  "postcode": "PH7 3SB",
+  "lat": 56.36809763333333,
+  "lon": -3.84563485,
+  "types": "car",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 286.09,
+  "n": 721.02
+ },
+ "Bishopbriggs": {
+  "name": "Bishopbriggs",
+  "street": "Crosshill Road, Bishopbriggs",
+  "locality": "Glasgow",
+  "postcode": "G64 2QA",
+  "lat": 55.9232552,
+  "lon": -4.1989941,
+  "types": "car",
+  "notes": [],
+  "e": 262.69,
+  "n": 672.21
+ },
+ "Airdrie": {
+  "name": "Airdrie",
+  "street": "7 Aitchison Street, Sword Street",
+  "locality": "Airdrie",
+  "postcode": "ML6 0DA",
+  "lat": 55.86673403636364,
+  "lon": -3.98889575,
+  "types": "car, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 275.62,
+  "n": 665.53
+ },
+ "Glasgow (Baillieston)": {
+  "name": "Glasgow (Baillieston)",
+  "street": "341 Springhill Parkway, Business Park",
+  "locality": "Glasgow",
+  "postcode": "G69 6GA",
+  "lat": 55.860793557746476,
+  "lon": -4.1134427760563375,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 267.79,
+  "n": 665.02
+ },
+ "Glasgow (Anniesland)": {
+  "name": "Glasgow (Anniesland)",
+  "street": "351 Anniesland Road, Strathclyde",
+  "locality": "Glasgow",
+  "postcode": "G13 1XS",
+  "lat": 55.8892929875,
+  "lon": -4.3378263,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 253.85,
+  "n": 668.71
+ },
+ "Blackpool": {
+  "name": "Blackpool",
+  "street": "Unit 8, The Pavilions, Avroe Crescent",
+  "locality": "Blackpool",
+  "postcode": "FY4 2DP",
+  "lat": 53.777230249090906,
+  "lon": -3.034647921818182,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 331.89,
+  "n": 431.7
+ },
+ "Kirkham LGV": {
+  "name": "Kirkham LGV",
+  "street": "Freckleton Lane",
+  "locality": "Kirkham",
+  "postcode": "PR4 2RP",
+  "lat": 53.7756456,
+  "lon": -2.871032,
+  "types": "",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 342.69,
+  "n": 431.38
+ },
+ "Southport (Liverpool)": {
+  "name": "Southport (Liverpool)",
+  "street": "Eastbank House, Eastbank Street",
+  "locality": "Southport",
+  "postcode": "PR8 1HE",
+  "lat": 53.6440461,
+  "lon": -3.0037776,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 333.74,
+  "n": 416.86
+ },
+ "Glasgow (Shieldhall)": {
+  "name": "Glasgow (Shieldhall)",
+  "street": "Bogmoor Road, ShieldHall West, Lanarkshire",
+  "locality": "Glasgow",
+  "postcode": "G51 4TH",
+  "lat": 55.863435513333336,
+  "lon": -4.348696615555555,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 253.09,
+  "n": 665.94
+ },
+ "Paisley": {
+  "name": "Paisley",
+  "street": "1 West Avenue, Linwood Industrial Estate",
+  "locality": "Paisley",
+  "postcode": "PA1 2FB",
+  "lat": 55.84377791212121,
+  "lon": -4.479361278787879,
+  "types": "car, ADI3/SC",
+  "notes": [
+   "You can access this test centre if you use a wheelchair.",
+   "Candidates and examiners are to park in the designated DVSA parking spaces only. Drive to the end of West Avenue and enter the car park for Malcolm Logistics. Park at the far end of the car park in the bays on the right numbered 41-56Candidates are not to arrive more than 10 minutes prior to their appointment time. Access to the site for practice is not permitted. Smoking is not permitted on site"
+  ],
+  "e": 244.86,
+  "n": 663.96
+ },
+ "East Kilbride": {
+  "name": "East Kilbride",
+  "street": "John Wright Sports Centre, Calderwood Road",
+  "locality": "East Kilbride",
+  "postcode": "G74 3EU",
+  "lat": 55.76615797142857,
+  "lon": -4.161663171428572,
+  "types": "car",
+  "notes": [],
+  "e": 264.52,
+  "n": 654.7
+ },
+ "Hamilton": {
+  "name": "Hamilton",
+  "street": "30 Selkirk Street, South",
+  "locality": "Hamilton",
+  "postcode": "ML3 6RQ",
+  "lat": 55.76970372000001,
+  "lon": -4.04162071,
+  "types": "",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 272.0,
+  "n": 654.81
+ },
+ "Dumbarton": {
+  "name": "Dumbarton",
+  "street": "Strathleven House Suite A4, Vale of Leven Industrial Estate",
+  "locality": "Dumbarton",
+  "postcode": "G82 3PD",
+  "lat": 55.96904214266667,
+  "lon": -4.573904214666666,
+  "types": "car",
+  "notes": [],
+  "e": 239.34,
+  "n": 678.18
+ },
+ "Greenock": {
+  "name": "Greenock",
+  "street": "19A Union Street",
+  "locality": "Greenock",
+  "postcode": "PA16 8DD",
+  "lat": 55.952981389743584,
+  "lon": -4.769372492307692,
+  "types": "car",
+  "notes": [],
+  "e": 227.19,
+  "n": 676.78
+ },
+ "Gloucester": {
+  "name": "Gloucester",
+  "street": "Falcon Close, Green Farm Business Park",
+  "locality": "Quedgeley",
+  "postcode": "GL2 4LY",
+  "lat": 51.833566559574464,
+  "lon": -2.2768553531914892,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 381.06,
+  "n": 215.06
+ },
+ "Cheltenham": {
+  "name": "Cheltenham",
+  "street": "Bishopsgate House, 94 All Saints Road",
+  "locality": "Cheltenham",
+  "postcode": "GL52 2HQ",
+  "lat": 51.903391733333336,
+  "lon": -2.064917266666667,
+  "types": "car, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 395.63,
+  "n": 222.77
+ },
+ "Swindon": {
+  "name": "Swindon",
+  "street": "1 Fenn Close, Peatmoor",
+  "locality": "Swindon",
+  "postcode": "SN5 5BL",
+  "lat": 51.57464685714286,
+  "lon": -1.8326998,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 3",
+  "notes": [],
+  "e": 411.71,
+  "n": 186.25
+ },
+ "Worcester": {
+  "name": "Worcester",
+  "street": "Stanier Road, Warndon",
+  "locality": "Worcester",
+  "postcode": "WR4 9FE",
+  "lat": 52.213984523076924,
+  "lon": -2.177996053846154,
+  "types": "car, motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 387.93,
+  "n": 257.32
+ },
+ "Hereford": {
+  "name": "Hereford",
+  "street": "Driving Test Centre Hereford, 1, Faraday Rd Westfield Trading Estate",
+  "locality": "Hereford",
+  "postcode": "HR4 9NS",
+  "lat": 52.066006711392404,
+  "lon": -2.7274818291139242,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 350.1,
+  "n": 241.15
+ },
+ "Swindon LGV": {
+  "name": "Swindon LGV",
+  "street": "Chisledon Camp, Chisledon",
+  "locality": "Swindon",
+  "postcode": "SN4 0FH",
+  "lat": 51.5010872,
+  "lon": -1.7345206444444443,
+  "types": "",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 418.63,
+  "n": 177.81
+ },
+ "Farnborough": {
+  "name": "Farnborough",
+  "street": "35 Hercules Way, Aerospace Boulevard, Unit C1, Cirrus",
+  "locality": "Farnborough",
+  "postcode": "GU14 6UU",
+  "lat": 51.274337439344265,
+  "lon": -0.7719135754098361,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 3",
+  "notes": [],
+  "e": 485.76,
+  "n": 153.51
+ },
+ "Guildford": {
+  "name": "Guildford",
+  "street": "Slyfield Industrial Estate, Off Moorfield Road",
+  "locality": "Guildford",
+  "postcode": "GU1 1SA",
+  "lat": 51.2593018,
+  "lon": -0.56542965,
+  "types": "car, lorry and bus, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 500.24,
+  "n": 152.12
+ },
+ "Chertsey (London)": {
+  "name": "Chertsey (London)",
+  "street": "Unit 4, The Forum, Hanworth Lane",
+  "locality": "Chertsey",
+  "postcode": "KT16 9JX",
+  "lat": 51.38410256724138,
+  "lon": -0.5094513793103449,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 503.82,
+  "n": 166.12
+ },
+ "Reading": {
+  "name": "Reading",
+  "street": "Suite A, 1st Floor, Pacific House, Imperial Way",
+  "locality": "Reading",
+  "postcode": "RG2 0TD",
+  "lat": 51.41934612222222,
+  "lon": -0.975069825925926,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 471.42,
+  "n": 169.46
+ },
+ "Basingstoke": {
+  "name": "Basingstoke",
+  "street": "Brighton Hill Centre",
+  "locality": "Basingstoke",
+  "postcode": "RG22 4LR",
+  "lat": 51.245281166666665,
+  "lon": -1.1126219333333334,
+  "types": "car, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "approx": "sector",
+  "e": 461.45,
+  "n": 149.31
+ },
+ "Ashford (London Middlesex)": {
+  "name": "Ashford (London Middlesex)",
+  "street": "18/19 Fir Tree Place, Church Road",
+  "locality": "Ashford",
+  "postcode": "TW15 2PJ",
+  "lat": 51.4325128,
+  "lon": -0.4618973,
+  "types": "car, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "approx": "sector",
+  "e": 507.06,
+  "n": 171.47
+ },
+ "Slough (London)": {
+  "name": "Slough (London)",
+  "street": "Drivng Test Centre Slough, 12 Waterside Drive",
+  "locality": "Slough",
+  "postcode": "SL3 6EZ",
+  "lat": 51.50880651904762,
+  "lon": -0.5451976777777778,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 501.01,
+  "n": 179.84
+ },
+ "Uxbridge (London)": {
+  "name": "Uxbridge (London)",
+  "street": "Unit 7, Trade City Business Park, Off Cowley Mill Road",
+  "locality": "Uxbridge",
+  "postcode": "UB8 2DB",
+  "lat": 51.536697357575754,
+  "lon": -0.48556782121212116,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road)",
+  "notes": [],
+  "e": 505.14,
+  "n": 183.09
+ },
+ "Greenford (London)": {
+  "name": "Greenford (London)",
+  "street": "96 Horsenden Lane North",
+  "locality": "Greenford",
+  "postcode": "UB6 7QH",
+  "lat": 51.55026535454545,
+  "lon": -0.33097071818181817,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "e": 515.82,
+  "n": 184.8
+ },
+ "Southall (London)": {
+  "name": "Southall (London)",
+  "street": "295 Allenby Road",
+  "locality": "Southall",
+  "postcode": "UB1 2HD",
+  "lat": 51.525332803508775,
+  "lon": -0.3649124175438596,
+  "types": "car",
+  "notes": [],
+  "e": 513.53,
+  "n": 181.98
+ },
+ "Yeading (London)": {
+  "name": "Yeading (London)",
+  "street": "Cygnet Way, Willow Tree Lane",
+  "locality": "Yeading",
+  "postcode": "UB4 9BS",
+  "lat": 51.52353300000001,
+  "lon": -0.38983480000000004,
+  "types": "car, lorry and bus",
+  "notes": [],
+  "e": 511.79,
+  "n": 181.74
+ },
+ "Wakefield": {
+  "name": "Wakefield",
+  "street": "Mothers Way, Silkwood Park",
+  "locality": "Ossett",
+  "postcode": "WF5 9TR",
+  "lat": 53.68348626666667,
+  "lon": -1.5461447999999998,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 430.05,
+  "n": 420.87
+ },
+ "Barnsley": {
+  "name": "Barnsley",
+  "street": "West Road",
+  "locality": "Barnsley",
+  "postcode": "S75 2DH",
+  "lat": 53.55452948571428,
+  "lon": -1.5023922642857142,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 433.06,
+  "n": 406.55
+ },
+ "Knaresborough": {
+  "name": "Knaresborough",
+  "street": "Ground Floor Unit 9, Grimbald Crag Court, St James Business Park",
+  "locality": "Knaresborough",
+  "postcode": "HG5 8QB",
+  "lat": 54.00116083928572,
+  "lon": -1.4435408964285714,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 436.54,
+  "n": 456.28
+ },
+ "Walton LGV": {
+  "name": "Walton LGV",
+  "street": "Wighill Lane, Walton",
+  "locality": "Wetherby",
+  "postcode": "LS23 7DU",
+  "lat": 53.92158564,
+  "lon": -1.32213676,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), lorry and bus",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 444.57,
+  "n": 447.45
+ },
+ "Leeds (Colton Mill)": {
+  "name": "Leeds (Colton Mill)",
+  "street": "Part Ground Floor, Unit 1, Colton Mill Office Park, Bullerthorpe Lane",
+  "locality": "Leeds",
+  "postcode": "LS15 9JN",
+  "lat": 53.791921376666664,
+  "lon": -1.4301863866666666,
+  "types": "car",
+  "notes": [],
+  "e": 437.63,
+  "n": 433.01
+ },
+ "York": {
+  "name": "York",
+  "street": "Arabesque House (Unit 2), Monks Cross Drive, Huntington",
+  "locality": "York",
+  "postcode": "YO32 9GW",
+  "lat": 53.98886485,
+  "lon": -1.04928345,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 462.44,
+  "n": 455.19
+ },
+ "High Wycombe": {
+  "name": "High Wycombe",
+  "street": "Holiday Inn, Junction 4, Handy Cross Roundabout",
+  "locality": "High Wycombe",
+  "postcode": "HP11 1TL",
+  "lat": 51.61353243333334,
+  "lon": -0.7712422,
+  "types": "car",
+  "notes": [
+   "The examiner will meet & greet candidates from candidate bays [numbered 578, 579, 580]"
+  ],
+  "e": 485.21,
+  "n": 191.21
+ },
+ "Aylesbury": {
+  "name": "Aylesbury",
+  "street": "Unit 9 Ground Floor, Bell Business Park",
+  "locality": "Aylesbury",
+  "postcode": "HP19 8JR",
+  "lat": 51.82208286666667,
+  "lon": -0.8426882777777778,
+  "types": "",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 479.83,
+  "n": 214.37
+ },
+ "Leighton Buzzard (Stanbridge Road)": {
+  "name": "Leighton Buzzard (Stanbridge Road)",
+  "street": "Leighton Road, Stanbridge",
+  "locality": "Leighton Buzzard",
+  "postcode": "LU7 4QG",
+  "lat": 51.9118297,
+  "lon": -0.630852,
+  "types": "car, motorcycle module 1 (off-road), lorry and bus, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 494.27,
+  "n": 224.58
+ },
+ "Ludlow": {
+  "name": "Ludlow",
+  "street": "Unit 1, The Business Quarter, Eco Park Road",
+  "locality": "Ludlow",
+  "postcode": "SY8 1FD",
+  "lat": 52.366159234782614,
+  "lon": -2.6928728347826087,
+  "types": "car, ADI part 3",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 352.91,
+  "n": 274.44
+ },
+ "Brecon": {
+  "name": "Brecon",
+  "street": "Camden Road",
+  "locality": "Brecon",
+  "postcode": "LD3 7RT",
+  "lat": 51.94457710350877,
+  "lon": -3.380273456140351,
+  "types": "car, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 305.23,
+  "n": 228.25
+ },
+ "Benbecula Island": {
+  "name": "Benbecula Island",
+  "street": "Balivanich Airport",
+  "locality": "Benbecula Island",
+  "postcode": "HS7 5LA",
+  "lat": 57.46783731770833,
+  "lon": -7.358470939583333,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 78.11,
+  "n": 855.08
+ },
+ "Stornoway LGV": {
+  "name": "Stornoway LGV",
+  "street": "LGV Area, Airport Road, Stornoway",
+  "locality": "Isle of Lewis",
+  "postcode": "HS1 2XX",
+  "lat": 58.20782305,
+  "lon": -6.3911209,
+  "types": "",
+  "notes": [],
+  "e": 142.16,
+  "n": 932.75
+ },
+ "Stornoway": {
+  "name": "Stornoway",
+  "street": "Fishermans Mission, 1 Quay Street, Stornaway",
+  "locality": "Isle of Lewis",
+  "postcode": "HS1 2XX",
+  "lat": 58.20782305,
+  "lon": -6.3911209,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road)",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 142.16,
+  "n": 932.75
+ },
+ "Isle of Skye (Portree)": {
+  "name": "Isle of Skye (Portree)",
+  "street": "Portree GVTS, Industrial Estate,, Home Farm Road",
+  "locality": "Lisigarry Place, Portree",
+  "postcode": "IV51 9BD",
+  "lat": 57.4197677125,
+  "lon": -6.21002168125,
+  "types": "",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 147.31,
+  "n": 844.45
+ },
+ "South Uist": {
+  "name": "South Uist",
+  "street": "C/O Tourist office, Lochboisdale",
+  "locality": "South Uist",
+  "postcode": "HS8 5TH",
+  "lat": 57.15466911285714,
+  "lon": -7.313295752857143,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 78.87,
+  "n": 819.62
+ },
+ "Gairloch": {
+  "name": "Gairloch",
+  "street": "Mihol Road",
+  "locality": "Gairloch",
+  "postcode": "IV21 2BX",
+  "lat": 57.7361769880597,
+  "lon": -5.702431158208955,
+  "types": "car",
+  "notes": [],
+  "e": 179.76,
+  "n": 877.85
+ },
+ "Isle of Skye (Broadford)": {
+  "name": "Isle of Skye (Broadford)",
+  "street": "Broadford Fire Station, Old School House",
+  "locality": "Broadford",
+  "postcode": "IV49 9AQ",
+  "lat": 57.23723926206897,
+  "lon": -5.891412575862069,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 165.12,
+  "n": 823.19
+ },
+ "Kyle of Lochalsh": {
+  "name": "Kyle of Lochalsh",
+  "street": "Kyle of Lochalsh Fire Station, Stoney Road",
+  "locality": "Kyle of Lochalsh",
+  "postcode": "IV40 8BP",
+  "lat": 57.280453378947364,
+  "lon": -5.720983578947369,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 175.82,
+  "n": 827.23
+ },
+ "Barra": {
+  "name": "Barra",
+  "street": "The Pier, Castlebay",
+  "locality": "Isle of Barra",
+  "postcode": "HS9 5XD",
+  "lat": 56.95531394090909,
+  "lon": -7.488874875757576,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 66.49,
+  "n": 798.28
+ },
+ "Mallaig": {
+  "name": "Mallaig",
+  "street": "Mallaig and Morar Community Centre, West Bay",
+  "locality": "Mallaig",
+  "postcode": "PH41 4PX",
+  "lat": 57.006104050000005,
+  "lon": -5.830525784615385,
+  "types": "car",
+  "notes": [],
+  "e": 167.52,
+  "n": 797.08
+ },
+ "Bridlington": {
+  "name": "Bridlington",
+  "street": "Driving Test Centre Bridlington Units 23 & 24 Enterprise Way, Bessingby Industrial Estate,",
+  "locality": "Bridlington",
+  "postcode": "YO16 4SF",
+  "lat": 54.081352008888885,
+  "lon": -0.21158254666666668,
+  "types": "car, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 517.11,
+  "n": 466.5
+ },
+ "Malton": {
+  "name": "Malton",
+  "street": "3 Milton Avenue",
+  "locality": "Malton",
+  "postcode": "YO17 7LB",
+  "lat": 54.14072283953488,
+  "lon": -0.7906691558139535,
+  "types": "car",
+  "notes": [
+   "Candidates should wait by the cars, where the examiner will meet them."
+  ],
+  "e": 479.11,
+  "n": 472.32
+ },
+ "Scarborough": {
+  "name": "Scarborough",
+  "street": "10/11 Falsegrave Community Resource Centre",
+  "locality": "Scarborough",
+  "postcode": "YO12 4AY",
+  "lat": 54.261815298,
+  "lon": -0.416976426,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 503.21,
+  "n": 486.26
+ },
+ "Norwich (Peachman Way)": {
+  "name": "Norwich (Peachman Way)",
+  "street": "Plot 16A, Peachman Way, Broadlands Business Park, Thorpe St Andrew",
+  "locality": "Norwich",
+  "postcode": "NR7 0WE",
+  "lat": 52.63424318,
+  "lon": 1.3753106599999998,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 628.47,
+  "n": 309.41
+ },
+ "Norwich (Jupiter Road)": {
+  "name": "Norwich (Jupiter Road)",
+  "street": "Jupiter Road, Hellesdon",
+  "locality": "Norwich",
+  "postcode": "NR6 6SU",
+  "lat": 52.65874686470588,
+  "lon": 1.2828147411764708,
+  "types": "lorry and bus",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability.",
+   "Norwich LGV is moving to a new site. The previous site at Jupiter Road will close on 31.10.2026"
+  ],
+  "e": 622.13,
+  "n": 311.81
+ },
+ "Lowestoft (Mobbs Way)": {
+  "name": "Lowestoft (Mobbs Way)",
+  "street": "Unit3 Oakland House Business Centre, Mobbs Way, Oulton Broad,",
+  "locality": "Lowestoft",
+  "postcode": "NR32 3AL",
+  "lat": 52.48704999473684,
+  "lon": 1.7141210394736843,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [],
+  "e": 652.31,
+  "n": 294.15
+ },
+ "Alness": {
+  "name": "Alness",
+  "street": "Unit 22 Fyrish Way, Teaninich Industrial Estate",
+  "locality": "Alness",
+  "postcode": "IV17 0PJ",
+  "lat": 57.69078425333333,
+  "lon": -4.26910644,
+  "types": "car",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 264.81,
+  "n": 869.05
+ },
+ "Inverness (Longman Drive)": {
+  "name": "Inverness (Longman Drive)",
+  "street": "4 Longman Drive",
+  "locality": "Inverness",
+  "postcode": "IV1 1SU",
+  "lat": 57.49171108552631,
+  "lon": -4.2266083750000005,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road)",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 266.49,
+  "n": 846.9
+ },
+ "Inverness (Seafield Road)": {
+  "name": "Inverness (Seafield Road)",
+  "street": "Longman Industrial Estate, Seafield Road",
+  "locality": "Inverness",
+  "postcode": "IV1 1SG",
+  "lat": 57.48791795844156,
+  "lon": -4.213928668831169,
+  "types": "lorry and bus, ADI part 2, ADI part 3",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 267.4,
+  "n": 846.34
+ },
+ "Lairg": {
+  "name": "Lairg",
+  "street": "Lairg Fire Station, Main Street",
+  "locality": "Lairg",
+  "postcode": "IV27 4DB",
+  "lat": 58.02285489807692,
+  "lon": -4.3950011519230765,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 258.66,
+  "n": 906.28
+ },
+ "Ullapool": {
+  "name": "Ullapool",
+  "street": "Ullapool Fire Station, Lady Smith Street",
+  "locality": "Ullapool",
+  "postcode": "IV26 2UW",
+  "lat": 57.89879494736842,
+  "lon": -5.159376076315789,
+  "types": "car",
+  "notes": [],
+  "e": 212.87,
+  "n": 894.31
+ },
+ "Golspie": {
+  "name": "Golspie",
+  "street": "Golspie Fire Station Fire Station, Back Road, Back Road",
+  "locality": "Golspie",
+  "postcode": "KW10 6SP",
+  "lat": 57.9729755,
+  "lon": -3.9837179,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 282.76,
+  "n": 899.91
+ },
+ "Grantown-On-Spey": {
+  "name": "Grantown-On-Spey",
+  "street": "Grantown-on-Spey Fire Station, Woodside Avenue, Grantown on Spey",
+  "locality": "Grantown-on-Spey",
+  "postcode": "PH26 3JR",
+  "lat": 57.32701323571429,
+  "lon": -3.6095683285714286,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 303.2,
+  "n": 827.43
+ },
+ "Kingussie": {
+  "name": "Kingussie",
+  "street": "Kingussie Shinty Club, The Market Stance, Ruthven Road",
+  "locality": "Kingussie",
+  "postcode": "PH21 1EN",
+  "lat": 57.078602708,
+  "lon": -4.05338304,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 275.61,
+  "n": 800.5
+ },
+ "Elgin": {
+  "name": "Elgin",
+  "street": "Crown Buildings, 21 Trinity Road",
+  "locality": "Elgin",
+  "postcode": "IV30 1UE",
+  "lat": 57.65144074285714,
+  "lon": -3.317556314285714,
+  "types": "",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 321.44,
+  "n": 863.12
+ },
+ "Dreghorn LGV": {
+  "name": "Dreghorn LGV",
+  "street": "Part 9A, Corsehill Mount Road, Dreghorn",
+  "locality": "Irvine",
+  "postcode": "KA11 4JZ",
+  "lat": 55.60747383157895,
+  "lon": -4.634804673684211,
+  "types": "",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 234.09,
+  "n": 638.03
+ },
+ "Irvine": {
+  "name": "Irvine",
+  "street": "Century Court, 11 Riverside Way, Riverside Business Park",
+  "locality": "Irvine",
+  "postcode": "KA11 5DJ",
+  "lat": 55.603088956,
+  "lon": -4.640224528,
+  "types": "car",
+  "notes": [],
+  "e": 233.85,
+  "n": 637.61
+ },
+ "Ayr": {
+  "name": "Ayr",
+  "street": "40 Boundary Road, Heathfield Industrial Estate",
+  "locality": "Ayr",
+  "postcode": "KA8 9DJ",
+  "lat": 55.48173263962264,
+  "lon": -4.603746618867925,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 235.56,
+  "n": 624.02
+ },
+ "Brodick (Isle of Arran)": {
+  "name": "Brodick (Isle of Arran)",
+  "street": "Royal Mail Delivery Office, Mayish Road",
+  "locality": "Brodick",
+  "postcode": "KA27 8AU",
+  "lat": 55.57621219795919,
+  "lon": -5.137128646938776,
+  "types": "car",
+  "notes": [],
+  "e": 202.26,
+  "n": 635.87
+ },
+ "Rothesay": {
+  "name": "Rothesay",
+  "street": "C/O Dept. of Employment, 9 King Street",
+  "locality": "Rothesay",
+  "postcode": "PA20 0DG",
+  "lat": 55.836457,
+  "lon": -5.056289,
+  "types": "car",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 208.71,
+  "n": 664.58
+ },
+ "Thurso": {
+  "name": "Thurso",
+  "street": "Naver House, Naver Road, Naver Business Park",
+  "locality": "Thurso",
+  "postcode": "KW14 7QA",
+  "lat": 58.5922941375,
+  "lon": -3.537025990625,
+  "types": "car",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 310.78,
+  "n": 968.17
+ },
+ "Wick": {
+  "name": "Wick",
+  "street": "Driving Test Centre Wick, Airport Industrial Estate",
+  "locality": "Wick",
+  "postcode": "KW1 4QS",
+  "lat": 58.450789715068495,
+  "lon": -3.0900668547945207,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road)",
+  "notes": [],
+  "e": 336.49,
+  "n": 951.85
+ },
+ "Orkney": {
+  "name": "Orkney",
+  "street": "The Kirkwall Auction Mart, Hatston Industrial Estate, Kirkwall",
+  "locality": "Orkney",
+  "postcode": "KW15 1FL",
+  "lat": 58.9916950875,
+  "lon": -2.974935465,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), lorry and bus",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 344.2,
+  "n": 1011.95
+ },
+ "Elgin LGV": {
+  "name": "Elgin LGV",
+  "street": "Driving Test Centre Elgin LGV, Miltown Airfield",
+  "locality": "Elgin",
+  "postcode": "IV30 8NQ",
+  "lat": 57.677087105714286,
+  "lon": -3.250648937142857,
+  "types": "",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 325.68,
+  "n": 865.55
+ },
+ "Newtown": {
+  "name": "Newtown",
+  "street": "Ladywell House",
+  "locality": "Newtown",
+  "postcode": "SY16 1JB",
+  "lat": 52.513210089610396,
+  "lon": -3.3159349623376624,
+  "types": "car, ADI part 3",
+  "notes": [
+   "There is no access to toilets facilities at the test centre. There are Public Toilet facilities a very short distance away from the DTC as well as multiple other establishments that do offer public toilets close to the DTC."
+  ],
+  "e": 310.79,
+  "n": 291.4
+ },
+ "Aberystwyth (Park Avenue)": {
+  "name": "Aberystwyth (Park Avenue)",
+  "street": "Aberystwyth Football Club, Park Avenue",
+  "locality": "Aberystwyth",
+  "postcode": "SY23 1PG",
+  "lat": 52.4103130326923,
+  "lon": -4.080996351923077,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "e": 258.53,
+  "n": 281.14
+ },
+ "Leicester (Wigston)": {
+  "name": "Leicester (Wigston)",
+  "street": "Tigers Road, off Saffron Road, South Wigston",
+  "locality": "Leicester",
+  "postcode": "LE18 4WS",
+  "lat": 52.58373433103448,
+  "lon": -1.1405180655172413,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 458.29,
+  "n": 298.81
+ },
+ "Melton Mowbray": {
+  "name": "Melton Mowbray",
+  "street": "Melton Mowbray Driving Test Centre, Phoenix House Nottingham Road",
+  "locality": "Melton Mowbray",
+  "postcode": "LE13 0UL",
+  "lat": 52.7696393,
+  "lon": -0.8932341,
+  "types": "car",
+  "notes": [],
+  "e": 474.75,
+  "n": 319.68
+ },
+ "Bangor": {
+  "name": "Bangor",
+  "street": "Llandegai Industrial Estate, Llandygai",
+  "locality": "Bangor",
+  "postcode": "LL57 4YH",
+  "lat": 53.2183809016129,
+  "lon": -4.110716779032258,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 3",
+  "notes": [],
+  "e": 259.11,
+  "n": 371.07
+ },
+ "Bala": {
+  "name": "Bala",
+  "street": "Unit 4, Penllyn Workshops",
+  "locality": "Bala",
+  "postcode": "LL23 7SP",
+  "lat": 52.9089051744186,
+  "lon": -3.6000953325581393,
+  "types": "car",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 292.48,
+  "n": 335.8
+ },
+ "Pwllheli": {
+  "name": "Pwllheli",
+  "street": "33A Cardiff Road",
+  "locality": "Pwllheli",
+  "postcode": "LL53 5NT",
+  "lat": 52.880743869565215,
+  "lon": -4.423329939130435,
+  "types": "car, ADI part 3",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 237.03,
+  "n": 334.22
+ },
+ "Oswestry": {
+  "name": "Oswestry",
+  "street": "Mile Oak Industrial Estate, Maesbury Road",
+  "locality": "Oswestry",
+  "postcode": "SY10 8GA",
+  "lat": 52.84503946666667,
+  "lon": -3.042362803703704,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "e": 329.91,
+  "n": 328.0
+ },
+ "Boston": {
+  "name": "Boston",
+  "street": "Redstone Industrial Estate, Unit 2, Plot 3",
+  "locality": "Boston",
+  "postcode": "PE21 8AL",
+  "lat": 52.96994363243243,
+  "lon": -0.03090421891891892,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 532.38,
+  "n": 343.25
+ },
+ "Grantham (Somerby)": {
+  "name": "Grantham (Somerby)",
+  "street": "Spitalgate Airfield, Blue Harbour",
+  "locality": "Grantham",
+  "postcode": "NG31 7TX",
+  "lat": 52.90111328,
+  "lon": -0.5882810733333333,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [],
+  "e": 495.12,
+  "n": 334.76
+ },
+ "Skegness": {
+  "name": "Skegness",
+  "street": "MKM Stadium, Skegness Town Football Club, Wainfleet Road",
+  "locality": "Skegness",
+  "postcode": "PE25 2EL",
+  "lat": 53.14361770000001,
+  "lon": 0.32342746,
+  "types": "car",
+  "notes": [],
+  "e": 555.55,
+  "n": 363.29
+ },
+ "Bletchley": {
+  "name": "Bletchley",
+  "street": "Block 4, Government Buildings, Wilton Hostel, Wilton Avenue",
+  "locality": "Bletchley",
+  "postcode": "MK3 6DH",
+  "lat": 51.993933,
+  "lon": -0.7423982,
+  "types": "car, motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 486.44,
+  "n": 233.58
+ },
+ "Bredbury (Manchester)": {
+  "name": "Bredbury (Manchester)",
+  "street": "Lingard Lane, Bredbury",
+  "locality": "Stockport",
+  "postcode": "SK6 2QT",
+  "lat": 53.428954890625,
+  "lon": -2.124037446875,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), lorry and bus, ADI part 3",
+  "notes": [],
+  "e": 391.81,
+  "n": 392.48
+ },
+ "Northampton": {
+  "name": "Northampton",
+  "street": "Gladstone Business Centre, Gladstone Road",
+  "locality": "Northampton",
+  "postcode": "NN5 7QA",
+  "lat": 52.25045812068965,
+  "lon": -0.9123499724137931,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 474.1,
+  "n": 262.23
+ },
+ "Wellingborough": {
+  "name": "Wellingborough",
+  "street": "Glamis Hall, Goldsmith Road",
+  "locality": "Wellingborough",
+  "postcode": "NN8 3RU",
+  "lat": 52.30193463958333,
+  "lon": -0.7233775583333334,
+  "types": "car",
+  "notes": [],
+  "e": 487.13,
+  "n": 267.86
+ },
+ "Weedon LGV": {
+  "name": "Weedon LGV",
+  "street": "Cavalry Hill Industrial Park",
+  "locality": "Northampton",
+  "postcode": "NN7 4PP",
+  "lat": 52.23345245,
+  "lon": -1.0883627769230768,
+  "types": "motorcycle module 1 (off-road), lorry and bus",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability.",
+   "Weedon LGV is moving to a new Permanent site and will close on 22/05/2026"
+  ],
+  "e": 462.38,
+  "n": 259.79
+ },
+ "Kettering": {
+  "name": "Kettering",
+  "street": "Orion Way, Kettering Business Park",
+  "locality": "Kettering",
+  "postcode": "NN15 6NL",
+  "lat": 52.37833902249999,
+  "lon": -0.7232102425,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 3",
+  "notes": [],
+  "e": 487.03,
+  "n": 276.4
+ },
+ "Alnwick": {
+  "name": "Alnwick",
+  "street": "Roxburgh House, Green Batt",
+  "locality": "Alnwick",
+  "postcode": "NE66 1JX",
+  "lat": 55.411820999999996,
+  "lon": -1.7053568599999998,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 418.75,
+  "n": 613.14
+ },
+ "Banbury": {
+  "name": "Banbury",
+  "street": "Suite 008 and 009, Colin Sanders Innovation Centre, Mewburn Road",
+  "locality": "Banbury",
+  "postcode": "OX16 9PA",
+  "lat": 52.0577821025641,
+  "lon": -1.3490129717948718,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability. This test centre has single stepped access. If using a map app or sat nav, use OX16 9PG. Please do not arrive for your test more than 10 minutes before the start time."
+  ],
+  "e": 444.73,
+  "n": 240.13
+ },
+ "Kings Lynn": {
+  "name": "Kings Lynn",
+  "street": "Rollesby Road, Hardwick Industrial Estate",
+  "locality": "Kings Lynn",
+  "postcode": "PE30 4LS",
+  "lat": 52.74696853783784,
+  "lon": 0.4206093351351351,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 3",
+  "notes": [],
+  "e": 563.65,
+  "n": 319.3
+ },
+ "Oxford (Cowley)": {
+  "name": "Oxford (Cowley)",
+  "street": "James Wolfe Road, Cowley",
+  "locality": "Oxford",
+  "postcode": "OX4 2PY",
+  "lat": 51.74097501000001,
+  "lon": -1.2015058633333333,
+  "types": "car, ADI part 2",
+  "notes": [],
+  "e": 455.24,
+  "n": 204.97
+ },
+ "Oxford (Kassam Stadium)": {
+  "name": "Oxford (Kassam Stadium)",
+  "street": "Kassam Stadium, Grenoble Road",
+  "locality": "Oxford",
+  "postcode": "OX4 4XP",
+  "lat": 51.717185797499994,
+  "lon": -1.21045118,
+  "types": "",
+  "notes": [],
+  "e": 454.61,
+  "n": 202.33
+ },
+ "Culham LGV": {
+  "name": "Culham LGV",
+  "street": "No 1 Site",
+  "locality": "Abingdon",
+  "postcode": "OX14 3DA",
+  "lat": 51.65589948513514,
+  "lon": -1.2348419,
+  "types": "",
+  "notes": [],
+  "e": 453.02,
+  "n": 195.48
+ },
+ "Greenham": {
+  "name": "Greenham",
+  "street": "Off Buckner Croke Way, Venture West Business Park, New Greenham Park",
+  "locality": "Newbury",
+  "postcode": "RG19 6HX",
+  "lat": 51.37649981818181,
+  "lon": -1.290952318181818,
+  "types": "",
+  "notes": [],
+  "e": 449.46,
+  "n": 164.46
+ },
+ "Lochgilphead": {
+  "name": "Lochgilphead",
+  "street": "Lochgilphead Community Centre, Manse Brae",
+  "locality": "Lochgilphead",
+  "postcode": "PA31 8QX",
+  "lat": 56.035935927272725,
+  "lon": -5.428211027272727,
+  "types": "car",
+  "notes": [],
+  "e": 186.56,
+  "n": 687.9
+ },
+ "Inveraray": {
+  "name": "Inveraray",
+  "street": "The Pier, Front Street",
+  "locality": "Inverary",
+  "postcode": "PA32 8UY",
+  "lat": 56.23130964,
+  "lon": -5.0723327171428565,
+  "types": "car",
+  "notes": [],
+  "e": 209.63,
+  "n": 708.56
+ },
+ "Dunoon": {
+  "name": "Dunoon",
+  "street": "Dunoon Business Centre, Unit 20 Highland Avenue, Sandbank Business Park",
+  "locality": "Dunoon",
+  "postcode": "PA23 8BP",
+  "lat": 55.952991000000004,
+  "lon": -4.922478665217391,
+  "types": "car",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 217.62,
+  "n": 677.19
+ },
+ "Oban": {
+  "name": "Oban",
+  "street": "Cameron House, Albany Street",
+  "locality": "Oban",
+  "postcode": "PA34 4AE",
+  "lat": 56.411006,
+  "lon": -5.474862,
+  "types": "car",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 185.73,
+  "n": 729.73
+ },
+ "Isle of Mull": {
+  "name": "Isle of Mull",
+  "street": "Post Office, Salen",
+  "locality": "Isle of Mull",
+  "postcode": "PA72 6JD",
+  "lat": 56.5172653,
+  "lon": -5.9449765,
+  "types": "car",
+  "notes": [],
+  "e": 157.42,
+  "n": 743.11
+ },
+ "Islay Island": {
+  "name": "Islay Island",
+  "street": "Argyll and Bute Council Offices Jamieson Street, Bowmore",
+  "locality": "Isle of Islay",
+  "postcode": "PA43 7HL",
+  "lat": 55.756518148780486,
+  "lon": -6.28532656097561,
+  "types": "car",
+  "notes": [],
+  "e": 131.23,
+  "n": 659.79
+ },
+ "Aberfeldy": {
+  "name": "Aberfeldy",
+  "street": "Town Hall, Crieff Road",
+  "locality": "Aberfeldy",
+  "postcode": "PH15 2BJ",
+  "lat": 56.61817900222222,
+  "lon": -3.868025982222222,
+  "types": "car",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 285.45,
+  "n": 748.91
+ },
+ "Ballachulish": {
+  "name": "Ballachulish",
+  "street": "Mountain Rescue Centre, Glencoe",
+  "locality": "Balachulish",
+  "postcode": "PH49 4HP",
+  "lat": 56.68385832258064,
+  "lon": -5.104421443548387,
+  "types": "car",
+  "notes": [],
+  "e": 209.86,
+  "n": 758.9
+ },
+ "Fort William": {
+  "name": "Fort William",
+  "street": "Lochaber College, An Aird",
+  "locality": "Fort William",
+  "postcode": "PH33 6AN",
+  "lat": 56.82171681818181,
+  "lon": -5.105261945454545,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 210.56,
+  "n": 774.38
+ },
+ "Bodmin": {
+  "name": "Bodmin",
+  "street": "Driving Test Centre Bodmin Beatrice Road, Units 32 - 36, Walker Lines Offices, Beatrice Road",
+  "locality": "Bodmin",
+  "postcode": "PL31 1RD",
+  "lat": 50.459755085714285,
+  "lon": -4.7061746,
+  "types": "car, motorcycle module 2 (on-road)",
+  "notes": [
+   "You can access this test centre if you use a wheelchair.",
+   "Please only use the parking bays marked Candidates Parking Only directly outside the test centre"
+  ],
+  "e": 208.02,
+  "n": 65.71
+ },
+ "Camborne": {
+  "name": "Camborne",
+  "street": "Carn Brea Hubb, Carn Brea, Station Road, Pool",
+  "locality": "Redruth, Cornwall",
+  "postcode": "TR15 3QS",
+  "lat": 50.2240116,
+  "lon": -5.26704595,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), lorry and bus, ADI part 2, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability.  All Car, LGV, ADI and Standard check tests will be taken from this location which is Carn Brea Hubb, Carn Brea, Station Road, Pool, Redruth, Cornwall TR15 3QS.  M1/M2 tests will still be conducted from main test centre address which is Camborne Driving Test Centre, Wilson Way, Redruth, TR15 3RP. Candidates are to park on the road opposite Carn Brea Hubb. Do not park in the Leisure centre car park or outside the hubb."
+  ],
+  "e": 167.07,
+  "n": 41.12
+ },
+ "Penzance": {
+  "name": "Penzance",
+  "street": "Driving Test Centre Penzance, 1 Alverton Terrace",
+  "locality": "Penzance",
+  "postcode": "TR18 4JH",
+  "lat": 50.11825512978724,
+  "lon": -5.542121789361702,
+  "types": "car, SC, ADI part 3",
+  "notes": [
+   "This test centre has stepped access."
+  ],
+  "e": 146.89,
+  "n": 30.26
+ },
+ "Sheffield (Handsworth)": {
+  "name": "Sheffield (Handsworth)",
+  "street": "Orgreave Way, Handsworth",
+  "locality": "Sheffield",
+  "postcode": "S13 9LT",
+  "lat": 53.3690236,
+  "lon": -1.3651391,
+  "types": "car, lorry and bus, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 442.34,
+  "n": 385.98
+ },
+ "Sheffield (Middlewood Road)": {
+  "name": "Sheffield (Middlewood Road)",
+  "street": "508, Middlewood Road",
+  "locality": "Sheffield",
+  "postcode": "S6 1TQ",
+  "lat": 53.41823308918919,
+  "lon": -1.5119711405405405,
+  "types": "car, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 432.62,
+  "n": 391.21
+ },
+ "Carmarthen": {
+  "name": "Carmarthen",
+  "street": "Ty Myrddin, Crown Building, Old Station Road",
+  "locality": "Carmarthen",
+  "postcode": "SA31 1LP",
+  "lat": 51.856168575,
+  "lon": -4.302599319444444,
+  "types": "car",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 241.54,
+  "n": 220.03
+ },
+ "Llanelli": {
+  "name": "Llanelli",
+  "street": "Toft Place, Llanerch",
+  "locality": "Llanelli",
+  "postcode": "SA15 3SB",
+  "lat": 51.68607151428571,
+  "lon": -4.155526442857143,
+  "types": "car, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 251.09,
+  "n": 200.79
+ },
+ "Cardigan": {
+  "name": "Cardigan",
+  "street": "Crown Buildings, Napier Street",
+  "locality": "Cardigan",
+  "postcode": "SA43 1ED",
+  "lat": 52.085122584615384,
+  "lon": -4.657830719230769,
+  "types": "car",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 217.99,
+  "n": 246.31
+ },
+ "Pembroke Dock": {
+  "name": "Pembroke Dock",
+  "street": "The Captain Superintendents Building, Royal Dockyard",
+  "locality": "Pembroke Dock",
+  "postcode": "SA72 6TD",
+  "lat": 51.69486791153846,
+  "lon": -4.952256030769231,
+  "types": "",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 196.04,
+  "n": 203.64
+ },
+ "Buxton": {
+  "name": "Buxton",
+  "street": "The Dairy, 7 Green Lane",
+  "locality": "Buxton",
+  "postcode": "SK17 9DS",
+  "lat": 53.25293648666666,
+  "lon": -1.9151070066666667,
+  "types": "car, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 405.75,
+  "n": 372.88
+ },
+ "Stafford": {
+  "name": "Stafford",
+  "street": "Unit 7, Greyfriars Business Park, Frank Foley Way",
+  "locality": "Stafford",
+  "postcode": "ST16 2RF",
+  "lat": 52.812658103846154,
+  "lon": -2.1244788538461536,
+  "types": "car, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 391.7,
+  "n": 323.9
+ },
+ "Telford": {
+  "name": "Telford",
+  "street": "35 Horton Wood",
+  "locality": "Telford",
+  "postcode": "TF1 7FR",
+  "lat": 52.719620475,
+  "lon": -2.464985625,
+  "types": "car, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 368.68,
+  "n": 313.66
+ },
+ "Shrewsbury": {
+  "name": "Shrewsbury",
+  "street": "Stafford Drive, Battlefield Enterprise Park",
+  "locality": "Shrewsbury",
+  "postcode": "SY1 3BF",
+  "lat": 52.746228478571425,
+  "lon": -2.7363808214285714,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [],
+  "e": 350.38,
+  "n": 316.74
+ },
+ "Kelso": {
+  "name": "Kelso",
+  "street": "Lloyd Land Rover, Pinnaclehill Industrial Estate, Lee Forbes Way",
+  "locality": "Kelso",
+  "postcode": "TD5 8DW",
+  "lat": 55.590045021311475,
+  "lon": -2.4248311295081963,
+  "types": "car, ADI part 3",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair."
+  ],
+  "e": 373.32,
+  "n": 633.1
+ },
+ "Duns": {
+  "name": "Duns",
+  "street": "Duns Library, 49 Newtown Street",
+  "locality": "Duns",
+  "postcode": "TD11 3AU",
+  "lat": 55.77772805625,
+  "lon": -2.34793503125,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 378.26,
+  "n": 653.89
+ },
+ "Berwick-On-Tweed": {
+  "name": "Berwick-On-Tweed",
+  "street": "Tweedmouth Ind. Estate, Northumberland Street",
+  "locality": "Berwick-upon-Tweed",
+  "postcode": "TD15 2UY",
+  "lat": 55.7632354,
+  "lon": -2.0163191,
+  "types": "car, motorcycle module 2 (on-road), lorry and bus, ADI part 3",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability.",
+   "Berwick TC moving to new premises – new address: Berwick Sports and Leisure Centre, Northumberland Road, Berwick Upon Tweed. TD15 2AS. The site is available from 24th September 2025 from 9.00am until 3.00pm each day. This will enable car testing to begin at around 9.07am and vocational testing to begin at 9.00am"
+  ],
+  "e": 399.07,
+  "n": 652.21
+ },
+ "Isles of Scilly": {
+  "name": "Isles of Scilly",
+  "street": "Town Hall, St Marys",
+  "locality": "Isles of Scilly",
+  "postcode": "TR21 0LW",
+  "lat": 49.91437,
+  "lon": -6.315366,
+  "types": "car",
+  "notes": [],
+  "e": 90.32,
+  "n": 10.51
+ },
+ "Whitby": {
+  "name": "Whitby",
+  "street": "Unit F11, St Hilda's Business Centre, Green Lane",
+  "locality": "Whitby",
+  "postcode": "YO22 4ET",
+  "lat": 54.4824128826087,
+  "lon": -0.608065795652174,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 490.28,
+  "n": 510.57
+ },
+ "Lerwick": {
+  "name": "Lerwick",
+  "street": "Isleburgh House, King Harald Street",
+  "locality": "Lerwick",
+  "postcode": "ZE1 0DJ",
+  "lat": 60.15105542142857,
+  "lon": -1.1474047035714285,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road), lorry and bus",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "e": 447.44,
+  "n": 1141.05
+ },
+ "Campbeltown": {
+  "name": "Campbeltown",
+  "street": "Crown Buildings, Hall Street",
+  "locality": "Campbeltown",
+  "postcode": "PA28 6BU",
+  "lat": 55.42423540714286,
+  "lon": -5.603506260714285,
+  "types": "car",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 172.07,
+  "n": 620.38
+ },
+ "Machrihanish LGV": {
+  "name": "Machrihanish LGV",
+  "street": "RAF Station, Machrihanish",
+  "locality": "Arygllshire",
+  "postcode": "PA28 6NU",
+  "lat": 55.4424889744186,
+  "lon": -5.6941477,
+  "types": "",
+  "notes": [],
+  "e": 166.39,
+  "n": 622.81
+ },
+ "Girvan": {
+  "name": "Girvan",
+  "street": "The Carrick Buildings Learning Centre, Henrietta Street",
+  "locality": "Girvan",
+  "postcode": "KA26 9AL",
+  "lat": 55.241568157446814,
+  "lon": -4.858511348936171,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "e": 218.39,
+  "n": 597.85
+ },
+ "Stranraer": {
+  "name": "Stranraer",
+  "street": "Northwest Castle Hotel, Wigtownshire",
+  "locality": "Stranraer",
+  "postcode": "DG9 8EH",
+  "lat": 54.90528345,
+  "lon": -5.021088949999999,
+  "types": "",
+  "notes": [
+   "DVSA will make arrangements for you at this test centre if you have a disability."
+  ],
+  "e": 206.39,
+  "n": 560.88
+ },
+ "Birmingham (Cocks Moors)": {
+  "name": "Birmingham (Cocks Moors Woods Leisure Centre)",
+  "street": "Cocks Moors Woods Leisure Centre, Alcester Road South",
+  "locality": "Birmingham",
+  "postcode": "B14 6ER",
+  "lat": 52.417005870000004,
+  "lon": -1.8890377099999998,
+  "types": "car",
+  "notes": [
+   "Opening Date 02/03/2026",
+   "Opening Date 02/03/2026"
+  ],
+  "govName": "Birmingham (Cocks Moors Woods Leisure Centre)",
+  "e": 407.61,
+  "n": 279.92
+ },
+ "Carlisle LGV (Cars)": {
+  "name": "Carlisle LGV",
+  "street": "Kingstown Industrial Estate",
+  "locality": "Carlisle",
+  "postcode": "CA3 0HA",
+  "lat": 54.92373123205128,
+  "lon": -2.9516034987179487,
+  "types": "car, lorry and bus",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "govName": "Carlisle LGV",
+  "e": 339.17,
+  "n": 559.16
+ },
+ "Chelmsford": {
+  "name": "Chelmsford (Hanbury Road)",
+  "street": "Unit 12, Cromar Way",
+  "locality": "Chelmsford",
+  "postcode": "CM1 2GL",
+  "lat": 51.806960571875,
+  "lon": 0.646785896875,
+  "types": "car, lorry and bus, ADI part 3",
+  "notes": [
+   "GOV.UK: the centre moved to Unit 12, Cromar Way, Chelmsford, after its last tests at the temporary County Hotel site on 2 October 2026."
+  ],
+  "govName": "Chelmsford (Hanbury Road)",
+  "e": 569.9,
+  "n": 206.2
+ },
+ "Clacton-on-Sea": {
+  "name": "Clacton-on- Sea",
+  "street": "103 - 105 Carnarvon Road",
+  "locality": "Clacton-on-Sea",
+  "postcode": "CO15 6QA",
+  "lat": 51.794123920370374,
+  "lon": 1.1528024666666665,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "govName": "Clacton-on- Sea",
+  "e": 617.5,
+  "n": 215.3
+ },
+ "Dunfermline (Vine)": {
+  "name": "Dunfermline",
+  "street": "Vine Conference Centre, 131 Garvock Hill",
+  "locality": "Dunfermline",
+  "postcode": "KY11 4JU",
+  "lat": 56.07597975000001,
+  "lon": -3.4263677666666665,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [],
+  "govName": "Dunfermline",
+  "e": 311.31,
+  "n": 687.92
+ },
+ "Greenford (Horsenden Lane)": {
+  "name": "Greenford (London)",
+  "street": "96 Horsenden Lane North",
+  "locality": "Greenford",
+  "postcode": "UB6 7QH",
+  "lat": 51.55026535454545,
+  "lon": -0.33097071818181817,
+  "types": "car, ADI part 3",
+  "notes": [],
+  "govName": "Greenford (London)",
+  "e": 515.82,
+  "n": 184.8
+ },
+ "Leeds (Fearnville)": {
+  "name": "Leeds (The Old Fire Station)",
+  "street": "The Old Fire station,, Gipton Approach,",
+  "locality": "Leeds",
+  "postcode": "LS9 6NL",
+  "lat": 53.80264971538462,
+  "lon": -1.4940138423076923,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "govName": "Leeds (The Old Fire Station)",
+  "e": 433.41,
+  "n": 434.17
+ },
+ "Lowestoft(Mobbs Way)": {
+  "name": "Lowestoft (Mobbs Way)",
+  "street": "Unit3 Oakland House Business Centre, Mobbs Way, Oulton Broad,",
+  "locality": "Lowestoft",
+  "postcode": "NR32 3AL",
+  "lat": 52.48704999473684,
+  "lon": 1.7141210394736843,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [],
+  "govName": "Lowestoft (Mobbs Way)",
+  "e": 652.31,
+  "n": 294.15
+ },
+ "Medway Ambley Road": {
+  "name": "Medway Ambely Road (Formally Gillingham LGV)",
+  "street": "Driving Test Centre Gillingham LGV, Ambley Road",
+  "locality": "Gillingham",
+  "postcode": "ME8 0SJ",
+  "lat": 51.36168885,
+  "lon": 0.577753,
+  "types": "",
+  "notes": [],
+  "govName": "Medway Ambely Road (Formally Gillingham LGV)",
+  "e": 579.55,
+  "n": 165.71
+ },
+ "Newport (Isle of Wight)": {
+  "name": "Newport (Isle Of Wight)",
+  "street": "Innovation Centre, St Cross Business Park, Newport",
+  "locality": "Newport",
+  "postcode": "PO30 5WB",
+  "lat": 50.71279180169492,
+  "lon": -1.2957677220338983,
+  "types": "car, motorcycle module 2 (on-road), ADI part 3",
+  "notes": [
+   "You cannot access this test centre if you use a wheelchair.",
+   "From Week Commencing 25.05.2026 All Mod2 bike tests will move from Newport (IOW) to Rookley LGV. Prichetts Way. Rookley, Ventor, PO38 3NG. Newport (IOW) will no longer conduct bike tests from this date",
+   "From Week Commencing 25.05.2026 All Mod2 bike tests will move from Newport (IOW) to Rookley LGV. Prichetts Way. Rookley, Ventor, PO38 3NG. Newport (IOW) will no longer conduct bike tests from this date"
+  ],
+  "govName": "Newport (Isle Of Wight)",
+  "e": 449.79,
+  "n": 90.58
+ },
+ "Nottingham (Colwick)": {
+  "name": "Nottingham (Colwick )",
+  "street": "Private Road No 5, Colwick Industrial Estate",
+  "locality": "Nottingham",
+  "postcode": "NG4 2JU",
+  "lat": 52.956914079166665,
+  "lon": -1.0700578041666666,
+  "types": "car, motorcycle module 1 (off-road), motorcycle module 2 (on-road)",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "govName": "Nottingham (Colwick )",
+  "e": 462.55,
+  "n": 340.38
+ },
+ "Stoke-On-Trent (Cobridge)": {
+  "name": "Stoke on Trent (Cobridge)",
+  "street": "8 Elder Road, Cobridge",
+  "locality": "Stoke-On-Trent",
+  "postcode": "ST6 2HE",
+  "lat": 53.04033535714286,
+  "lon": -2.1880496714285713,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [],
+  "govName": "Stoke on Trent (Cobridge)",
+  "e": 387.49,
+  "n": 349.24
+ },
+ "Stoke-on-Trent (Newcastle-Under-Lyme)": {
+  "name": "Stoke on Trent (Newcastle under Lyme)",
+  "street": "Parklands, Clayton Lane, Trent Vale",
+  "locality": "Stoke-On-Trent",
+  "postcode": "ST4 6PQ",
+  "lat": 52.9961191125,
+  "lon": -2.212497925,
+  "types": "car, motorcycle module 2 (on-road), ADI part 2, ADI part 3",
+  "notes": [
+   "You can access this test centre if you use a wheelchair."
+  ],
+  "govName": "Stoke on Trent (Newcastle under Lyme)",
+  "e": 385.86,
+  "n": 344.36
+ },
+ "Widnes": {
+  "name": "Widnes (Liverpool)",
+  "street": "Everite Road",
+  "locality": "Widnes",
+  "postcode": "WA8 8PT",
+  "lat": 53.362580369444444,
+  "lon": -2.771736016666667,
+  "types": "car, ADI part 2, ADI part 3",
+  "notes": [],
+  "govName": "Widnes (Liverpool)",
+  "e": 348.69,
+  "n": 385.33
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "name": "Test Centre Pass Rates",
+ "short_name": "Test Centre Pass Rates",
+ "description": "Pass rate, three-year trend and current waiting time for every car driving test centre in England, Scotland and Wales, from the DVSA tables, with the easiest centre near you.",
+ "start_url": "/en/",
+ "display": "standalone",
+ "background_color": "#ffffff",
+ "theme_color": "#B3123A",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import LegalIdentity from '../../components/LegalIdentity.astro';
+import { CONTACT_EMAIL, LAST_UPDATED, SITE_NAMES } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+const lang = 'en';
+---
+<PageLayout title={`Contact ${SITE_NAMES[lang]}: a centre figure, a rule, the widget`} description="Write to Test Centre Pass Rates when a driving test centre figure looks wrong, when a centre has moved or closed, or to embed the test centre finder on your own website." lang={lang} noindex={true} breadcrumbs={[{ label: 'Contact' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Contact</h1>
+    <p>Email: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. A person reads every message.</p>
+    <h2>A figure looks wrong</h2>
+    <p>Tell us the centre and the figure. Most gaps come from timing: DVSA publishes pass rates by centre once a year and waiting times every month, and other sites sometimes still show an older year. If DVSA revises a table, we rebuild the site from the new file and date the change.</p>
+    <h2>What we cannot do</h2>
+    <p>We cannot book, move, swap or cancel a test, find an earlier slot or contact DVSA for you. Please do not send your licence number, booking reference or address. Tests are booked and changed only on GOV.UK.</p>
+    <h2>Using the finder on your own site</h2>
+    <p>Driving instructors, schools, colleges and youth services can show the centre finder in an iframe at no cost. The code and the conditions are on the <a href={route('widget', lang)}>embed page</a>.</p>
+    <h2>Publisher</h2>
+    <LegalIdentity lang={lang} />
+    <p>Updated: {LAST_UPDATED}.</p>
+  </div>
+</PageLayout>

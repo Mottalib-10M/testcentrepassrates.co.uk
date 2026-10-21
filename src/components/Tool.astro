@@ -1,0 +1,28 @@
+---
+/** Renders one tool with its page defaults: the centre finder (`finder`) or a mini-spec (`mini:<spec>`). */
+import CentreFinder from './calc/CentreFinder';
+import MiniSim from './calc/MiniSim';
+import { route, ROUTES } from '../i18n/routes';
+import { getSpec, centreIndex, theoryIndex } from '../lib/mini-specs';
+import { CENTRES } from '../lib/engine/centres';
+import type { ToolDef } from '../lib/guide-types';
+interface Props { tool: ToolDef; primary?: boolean; idPrefix?: string }
+const { tool, primary = false, idPrefix } = Astro.props;
+const props = (tool.props ?? {}) as Record<string, any>;
+const methodHref = route('method', 'en');
+const kind = tool.kind;
+const mini = kind.startsWith('mini:') ? kind.slice(5) : null;
+const spec = mini ? getSpec(mini) : null;
+const href = spec?.ctaPage ? route(spec.ctaPage, 'en') : undefined;
+const numDefaults: Record<string, number> = {};
+for (const [k, v] of Object.entries(props)) {
+  if (typeof v === 'number') numDefaults[k] = v;
+  else if ((k === 'centre' || k === 'a' || k === 'b') && typeof v === 'string') numDefaults[k] = centreIndex(v);
+  else if (k === 'tc' && typeof v === 'string') numDefaults[k] = theoryIndex(v);
+}
+// Centres that have their own page: the finder links to them.
+const pages: Record<string, string> = {};
+for (const c of CENTRES) if (ROUTES.some((r) => r.id === `centre-${c.id}`)) pages[c.id] = route(`centre-${c.id}`, 'en');
+---
+{kind === 'finder' && <CentreFinder client:load {...props} pages={pages} methodHref={methodHref} idPrefix={idPrefix ?? 'f'} />}
+{mini && <MiniSim client:load kind={mini} href={href} defaults={numDefaults} primary={primary} idPrefix={idPrefix ?? (primary ? 'p' : 'm')} />}
