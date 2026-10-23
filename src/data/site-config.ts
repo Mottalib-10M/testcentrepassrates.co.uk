@@ -1,5 +1,5 @@
 /** Configuration centrale du site (générée par new-site.py). */
-export const SITE_URL = "https://uk-driving-test-centres.example";
+export const SITE_URL = "https://testcentrepassrates.co.uk";
 export const SITE_NAMES: Record<string, string> = {"en": "Test Centre Pass Rates"};
 export const LANG_TAGS: Record<string, string> = {"en": "en-GB"};
 export const OG_LOCALES: Record<string, string> = {"en": "en_GB"};
@@ -16,7 +16,7 @@ export const AUTHOR_DESC: Record<string, string> = {"en": "Radif Partners reads 
  *  themes reellement traites par le site, pas une liste de mots-cles : un sujet
  *  declare ici sans page qui le couvre est une declaration fausse. */
 export const KNOWS_ABOUT: Record<string, string[]> = {"en": ["Practical car driving test pass rates by test centre", "Driving test waiting times in Great Britain", "First-time pass rates and zero-fault passes", "Automatic car driving test pass rates", "Car theory test pass rates", "Cost of learning to drive in the UK", "DVSA driving test cancellations"]};
-export const CONTACT_EMAIL = "contact@uk-driving-test-centres.example";
+export const CONTACT_EMAIL = "contact@testcentrepassrates.co.uk";
 export const THEME_COLOR = '#B3123A';
 export const LOGO_SYMBOL = 'L';
 export const BING_VERIFY_CODE = '';

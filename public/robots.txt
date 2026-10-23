@@ -3,4 +3,4 @@ Allow: /
 
 Disallow: /*?*
 
-Sitemap: https://uk-driving-test-centres.example/sitemap-index.xml
+Sitemap: https://testcentrepassrates.co.uk/sitemap-index.xml
